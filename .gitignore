@@ -1,0 +1,12 @@
+# ambiente
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# dados brutos (baixe com src/coletar_dados.py)
+dados/zips/
+dados/scr_pf/
+*.zip.part

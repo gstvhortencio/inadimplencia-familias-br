@@ -1,0 +1,2017 @@
+mes,ocupacao,grupo_produto,escopo,carteira_ativa_mi,carteira_inadimplida_mi,vencido_90d_mi
+2025-01-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11019.45,395.04,347.117
+2025-01-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2437.227,257.404,257.102
+2025-01-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2464.312,1768.944,1746.508
+2025-01-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,37336.837,3.369,3.132
+2025-01-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2771.522,275.548,271.369
+2025-01-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,164012.455,3629.974,829.146
+2025-01-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23216.079,1650.201,611.544
+2025-01-31,Aposentado/pensionista,Habitacional,Consumo e habitação,26246.653,265.252,25.977
+2025-01-31,Aposentado/pensionista,Home equity,Consumo e habitação,1440.039,34.624,5.823
+2025-01-31,Aposentado/pensionista,Outros,Consumo e habitação,10452.189,1476.084,425.388
+2025-01-31,Aposentado/pensionista,Rural,Rural,12412.121,221.308,135.475
+2025-01-31,Aposentado/pensionista,Veículos,Consumo e habitação,18367.36,665.151,130.486
+2025-01-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4349.896,555.251,466.308
+2025-01-31,Autônomo,Cartão: rotativo,Consumo e habitação,1153.76,131.025,130.653
+2025-01-31,Autônomo,Cartão: saldo não migrado (legado),Legado,2835.748,2099.751,2067.425
+2025-01-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,32871.109,5.751,5.429
+2025-01-31,Autônomo,Cheque especial,Consumo e habitação,2878.337,357.392,349.88
+2025-01-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,13075.217,392.801,112.084
+2025-01-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27031.411,1948.653,780.373
+2025-01-31,Autônomo,Habitacional,Consumo e habitação,73146.61,1210.279,82.751
+2025-01-31,Autônomo,Home equity,Consumo e habitação,2348.002,60.393,9.884
+2025-01-31,Autônomo,Outros,Consumo e habitação,22734.435,2048.503,828.662
+2025-01-31,Autônomo,Rural,Rural,152777.712,4713.396,2974.586
+2025-01-31,Autônomo,Veículos,Consumo e habitação,28948.743,1314.947,264.542
+2025-01-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,16173.044,2093.77,1760.105
+2025-01-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,3707.292,429.019,427.855
+2025-01-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,10848.87,7953.85,7846.558
+2025-01-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,109395.028,9.292,8.77
+2025-01-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8176.348,1009.51,989.326
+2025-01-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,52961.207,2009.786,697.459
+2025-01-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,79184.022,4979.641,1840.903
+2025-01-31,Empregado de empresa privada,Habitacional,Consumo e habitação,441512.983,4422.097,281.463
+2025-01-31,Empregado de empresa privada,Home equity,Consumo e habitação,4621.539,58.424,5.993
+2025-01-31,Empregado de empresa privada,Outros,Consumo e habitação,27838.828,4793.44,1479.679
+2025-01-31,Empregado de empresa privada,Rural,Rural,26063.797,704.738,460.645
+2025-01-31,Empregado de empresa privada,Veículos,Consumo e habitação,95235.09,3469.33,659.792
+2025-01-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,96.131,11.152,9.179
+2025-01-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,21.186,2.856,2.849
+2025-01-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,53.311,40.157,39.846
+2025-01-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,562.33,0.072,0.072
+2025-01-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,36.048,5.139,5.059
+2025-01-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,433.337,15.151,4.286
+2025-01-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,355.128,25.67,10.188
+2025-01-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1510.682,14.971,0.901
+2025-01-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,24.289,0.076,0.024
+2025-01-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,145.108,24.404,7.995
+2025-01-31,Empregado de entidades sem fins lucrativos,Rural,Rural,281.341,2.43,1.262
+2025-01-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,379.594,16.318,3.571
+2025-01-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,7643.823,1011.303,858.234
+2025-01-31,Empresário,Cartão: rotativo,Consumo e habitação,2203.133,154.313,153.888
+2025-01-31,Empresário,Cartão: saldo não migrado (legado),Legado,5303.371,3749.731,3674.949
+2025-01-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,84893.577,5.397,5.146
+2025-01-31,Empresário,Cheque especial,Consumo e habitação,6689.772,661.207,645.815
+2025-01-31,Empresário,Crédito pessoal consignado,Consumo e habitação,14545.179,355.101,96.31
+2025-01-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,61133.596,3549.687,1241.749
+2025-01-31,Empresário,Habitacional,Consumo e habitação,214974.825,2536.635,176.738
+2025-01-31,Empresário,Home equity,Consumo e habitação,9595.233,229.385,25.778
+2025-01-31,Empresário,Outros,Consumo e habitação,57094.123,4166.711,1519.917
+2025-01-31,Empresário,Rural,Rural,250320.482,5813.679,3729.722
+2025-01-31,Empresário,Veículos,Consumo e habitação,59211.057,2130.13,407.794
+2025-01-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1642.389,252.037,210.999
+2025-01-31,MEI,Cartão: rotativo,Consumo e habitação,465.53,60.005,59.744
+2025-01-31,MEI,Cartão: saldo não migrado (legado),Legado,1336.424,1006.493,991.125
+2025-01-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,11674.929,2.029,1.908
+2025-01-31,MEI,Cheque especial,Consumo e habitação,638.163,100.602,98.579
+2025-01-31,MEI,Crédito pessoal consignado,Consumo e habitação,1513.241,59.23,18.694
+2025-01-31,MEI,Crédito pessoal não consignado,Consumo e habitação,4396.147,495.433,213.626
+2025-01-31,MEI,Habitacional,Consumo e habitação,27799.132,421.958,25.572
+2025-01-31,MEI,Home equity,Consumo e habitação,314.909,9.792,1.161
+2025-01-31,MEI,Outros,Consumo e habitação,2782.681,471.328,155.456
+2025-01-31,MEI,Rural,Rural,1087.856,27.04,12.991
+2025-01-31,MEI,Veículos,Consumo e habitação,12427.196,545.972,102.515
+2025-01-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,34965.696,4242.505,3476.662
+2025-01-31,Outros,Cartão: rotativo,Consumo e habitação,8028.5,1435.167,1433.454
+2025-01-31,Outros,Cartão: saldo não migrado (legado),Legado,17282.919,13470.264,13354.784
+2025-01-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,127612.189,56.304,53.845
+2025-01-31,Outros,Cheque especial,Consumo e habitação,7325.048,1232.22,1214.723
+2025-01-31,Outros,Crédito pessoal consignado,Consumo e habitação,197761.021,5826.89,1851.086
+2025-01-31,Outros,Crédito pessoal não consignado,Consumo e habitação,94861.555,8950.527,3899.891
+2025-01-31,Outros,Habitacional,Consumo e habitação,219790.731,4333.823,287.351
+2025-01-31,Outros,Home equity,Consumo e habitação,2267.528,44.386,5.19
+2025-01-31,Outros,Outros,Consumo e habitação,48507.723,6453.721,2678.521
+2025-01-31,Outros,Rural,Rural,192247.722,4930.588,2876.286
+2025-01-31,Outros,Veículos,Consumo e habitação,102091.897,6725.964,1402.602
+2025-01-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10708.395,857.81,735.917
+2025-01-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4076.335,309.487,309.129
+2025-01-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,4827.681,3423.951,3382.819
+2025-01-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,69316.774,7.504,7.109
+2025-01-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,3910.315,347.856,340.651
+2025-01-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,253950.3,6038.95,1171.124
+2025-01-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,34394.008,2727.337,857.441
+2025-01-31,Servidor ou empregado público,Habitacional,Consumo e habitação,180132.567,1161.889,85.341
+2025-01-31,Servidor ou empregado público,Home equity,Consumo e habitação,2759.418,39.751,7.22
+2025-01-31,Servidor ou empregado público,Outros,Consumo e habitação,17858.638,2622.758,700.599
+2025-01-31,Servidor ou empregado público,Rural,Rural,18161.707,448.824,265.832
+2025-01-31,Servidor ou empregado público,Veículos,Consumo e habitação,38574.221,1189.349,221.93
+2025-02-28,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11140.046,421.936,371.938
+2025-02-28,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2566.122,283.615,283.368
+2025-02-28,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2548.369,1828.534,1806.973
+2025-02-28,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,35974.278,3.771,3.576
+2025-02-28,Aposentado/pensionista,Cheque especial,Consumo e habitação,2752.509,275.668,271.335
+2025-02-28,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,164655.218,3690.245,883.871
+2025-02-28,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23313.89,1685.318,623.686
+2025-02-28,Aposentado/pensionista,Habitacional,Consumo e habitação,25993.932,259.19,25.591
+2025-02-28,Aposentado/pensionista,Home equity,Consumo e habitação,1431.578,33.912,6.203
+2025-02-28,Aposentado/pensionista,Outros,Consumo e habitação,10305.801,1396.029,416.315
+2025-02-28,Aposentado/pensionista,Rural,Rural,12412.758,236.168,144.892
+2025-02-28,Aposentado/pensionista,Veículos,Consumo e habitação,18314.138,669.58,131.854
+2025-02-28,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4496.346,595.559,505.116
+2025-02-28,Autônomo,Cartão: rotativo,Consumo e habitação,1306.12,154.484,154.093
+2025-02-28,Autônomo,Cartão: saldo não migrado (legado),Legado,2956.931,2172.803,2139.16
+2025-02-28,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,32091.564,6.086,5.806
+2025-02-28,Autônomo,Cheque especial,Consumo e habitação,2905.559,357.913,350.009
+2025-02-28,Autônomo,Crédito pessoal consignado,Consumo e habitação,13330.678,391.393,120.673
+2025-02-28,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27425.383,2044.581,821.521
+2025-02-28,Autônomo,Habitacional,Consumo e habitação,73732.827,1255.513,76.133
+2025-02-28,Autônomo,Home equity,Consumo e habitação,2374.529,58.126,9.949
+2025-02-28,Autônomo,Outros,Consumo e habitação,22844.41,2087.025,869.592
+2025-02-28,Autônomo,Rural,Rural,154198.353,5079.348,3171.946
+2025-02-28,Autônomo,Veículos,Consumo e habitação,29170.534,1348.374,277.371
+2025-02-28,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,16788.98,2237.716,1900.088
+2025-02-28,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4187.977,498.899,497.373
+2025-02-28,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,11345.516,8266.555,8158.387
+2025-02-28,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,106604.456,9.927,9.372
+2025-02-28,Empregado de empresa privada,Cheque especial,Consumo e habitação,8369.988,1013.577,993.083
+2025-02-28,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,53461.877,1995.202,708.676
+2025-02-28,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,80520.859,5153.268,1935.365
+2025-02-28,Empregado de empresa privada,Habitacional,Consumo e habitação,445407.184,4591.265,260.99
+2025-02-28,Empregado de empresa privada,Home equity,Consumo e habitação,4675.084,56.826,6.08
+2025-02-28,Empregado de empresa privada,Outros,Consumo e habitação,27501.289,4484.138,1439.15
+2025-02-28,Empregado de empresa privada,Rural,Rural,26489.44,790.575,521.47
+2025-02-28,Empregado de empresa privada,Veículos,Consumo e habitação,96186.307,3578.474,694.681
+2025-02-28,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,99.492,11.823,9.791
+2025-02-28,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.738,3.196,3.192
+2025-02-28,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,55.076,40.693,40.431
+2025-02-28,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,543.314,0.071,0.071
+2025-02-28,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,36.654,5.12,5.043
+2025-02-28,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,438.442,15.35,4.865
+2025-02-28,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,363.936,25.634,10.368
+2025-02-28,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1526.155,14.622,0.816
+2025-02-28,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,24.092,0.048,0.025
+2025-02-28,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,142.651,23.809,7.919
+2025-02-28,Empregado de entidades sem fins lucrativos,Rural,Rural,279.498,3.354,1.839
+2025-02-28,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,381.932,16.07,3.64
+2025-02-28,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,7899.548,1076.241,922.435
+2025-02-28,Empresário,Cartão: rotativo,Consumo e habitação,2572.968,182.064,181.51
+2025-02-28,Empresário,Cartão: saldo não migrado (legado),Legado,5581.487,3930.208,3851.9
+2025-02-28,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,82577.225,5.828,5.583
+2025-02-28,Empresário,Cheque especial,Consumo e habitação,6816.492,666.036,650.289
+2025-02-28,Empresário,Crédito pessoal consignado,Consumo e habitação,14845.339,359.827,102.723
+2025-02-28,Empresário,Crédito pessoal não consignado,Consumo e habitação,61585.67,3740.765,1291.753
+2025-02-28,Empresário,Habitacional,Consumo e habitação,216569.066,2522.121,167.662
+2025-02-28,Empresário,Home equity,Consumo e habitação,9715.646,221.974,25.511
+2025-02-28,Empresário,Outros,Consumo e habitação,57277.001,4231.223,1583.964
+2025-02-28,Empresário,Rural,Rural,252964.077,6337.442,4080.769
+2025-02-28,Empresário,Veículos,Consumo e habitação,59328.264,2172.114,422.567
+2025-02-28,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1696.546,271.981,230.013
+2025-02-28,MEI,Cartão: rotativo,Consumo e habitação,521.558,69.501,69.199
+2025-02-28,MEI,Cartão: saldo não migrado (legado),Legado,1395.318,1045.741,1030.108
+2025-02-28,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,11482.703,2.259,2.129
+2025-02-28,MEI,Cheque especial,Consumo e habitação,660.17,99.763,97.575
+2025-02-28,MEI,Crédito pessoal consignado,Consumo e habitação,1552.583,58.558,19.707
+2025-02-28,MEI,Crédito pessoal não consignado,Consumo e habitação,4508.163,523.212,227.162
+2025-02-28,MEI,Habitacional,Consumo e habitação,28032.024,435.662,24.058
+2025-02-28,MEI,Home equity,Consumo e habitação,316.259,8.949,1.129
+2025-02-28,MEI,Outros,Consumo e habitação,2748.741,459.97,156.023
+2025-02-28,MEI,Rural,Rural,1115.423,40.546,25.474
+2025-02-28,MEI,Veículos,Consumo e habitação,12525.216,567.879,108.454
+2025-02-28,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,36466.865,4611.072,3825.949
+2025-02-28,Outros,Cartão: rotativo,Consumo e habitação,8813.14,1657.292,1655.272
+2025-02-28,Outros,Cartão: saldo não migrado (legado),Legado,18012.094,13915.554,13799.793
+2025-02-28,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,125399.632,61.022,58.686
+2025-02-28,Outros,Cheque especial,Consumo e habitação,7208.621,1242.863,1225.201
+2025-02-28,Outros,Crédito pessoal consignado,Consumo e habitação,201457.048,5932.653,2051.91
+2025-02-28,Outros,Crédito pessoal não consignado,Consumo e habitação,97352.891,9609.106,4252.331
+2025-02-28,Outros,Habitacional,Consumo e habitação,223557.554,4546.305,271.541
+2025-02-28,Outros,Home equity,Consumo e habitação,2313.38,42.916,5.405
+2025-02-28,Outros,Outros,Consumo e habitação,48885.734,6529.78,2791.568
+2025-02-28,Outros,Rural,Rural,194406.233,5252.329,3056.873
+2025-02-28,Outros,Veículos,Consumo e habitação,103916.948,7063.68,1507.773
+2025-02-28,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11049.432,916.381,788.411
+2025-02-28,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4373.676,369.474,369.001
+2025-02-28,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5076.065,3579.197,3537.578
+2025-02-28,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,66918.72,8.132,7.737
+2025-02-28,Servidor ou empregado público,Cheque especial,Consumo e habitação,3936.041,348.978,341.803
+2025-02-28,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,256251.018,6157.444,1337.511
+2025-02-28,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,34960.714,2755.824,860.66
+2025-02-28,Servidor ou empregado público,Habitacional,Consumo e habitação,181163.742,1163.966,78.823
+2025-02-28,Servidor ou empregado público,Home equity,Consumo e habitação,2781.642,39.827,6.159
+2025-02-28,Servidor ou empregado público,Outros,Consumo e habitação,17784.342,2560.003,700.604
+2025-02-28,Servidor ou empregado público,Rural,Rural,18434.389,503.774,280.971
+2025-02-28,Servidor ou empregado público,Veículos,Consumo e habitação,38925.324,1187.902,220.265
+2025-03-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11329.416,402.118,348.918
+2025-03-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2461.466,274.809,274.571
+2025-03-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2653.898,1902.814,1880.072
+2025-03-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,36569.43,4.149,3.944
+2025-03-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2860.437,280.217,275.883
+2025-03-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,165454.88,3590.325,828.885
+2025-03-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23518.759,1674.541,646.711
+2025-03-31,Aposentado/pensionista,Habitacional,Consumo e habitação,26101.843,275.848,26.729
+2025-03-31,Aposentado/pensionista,Home equity,Consumo e habitação,1436.349,41.927,6.612
+2025-03-31,Aposentado/pensionista,Outros,Consumo e habitação,10128.628,1287.108,409.165
+2025-03-31,Aposentado/pensionista,Rural,Rural,12540.235,256.105,154.312
+2025-03-31,Aposentado/pensionista,Veículos,Consumo e habitação,18414.732,719.234,145.363
+2025-03-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4600.544,576.832,486.232
+2025-03-31,Autônomo,Cartão: rotativo,Consumo e habitação,1215.054,143.863,143.367
+2025-03-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3100.85,2251.171,2214.593
+2025-03-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,32715.251,6.668,6.395
+2025-03-31,Autônomo,Cheque especial,Consumo e habitação,2974.547,363.548,355.272
+2025-03-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,13514.812,391.757,118.561
+2025-03-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27650.941,2145.426,889.09
+2025-03-31,Autônomo,Habitacional,Consumo e habitação,74399.495,1334.897,84.461
+2025-03-31,Autônomo,Home equity,Consumo e habitação,2393.074,62.942,10.671
+2025-03-31,Autônomo,Outros,Consumo e habitação,22731.159,2090.837,865.113
+2025-03-31,Autônomo,Rural,Rural,154633.032,4941.239,3077.138
+2025-03-31,Autônomo,Veículos,Consumo e habitação,29317.295,1450.596,305.91
+2025-03-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,17106.319,2136.552,1805.011
+2025-03-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,3963.876,476.977,475.078
+2025-03-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,11759.352,8433.969,8319.5
+2025-03-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,109096.699,10.73,10.123
+2025-03-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8660.241,1027.136,1006.106
+2025-03-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,54465.586,2015.321,726.138
+2025-03-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,81110.995,5178.077,2029.239
+2025-03-31,Empregado de empresa privada,Habitacional,Consumo e habitação,449147.841,4802.371,292.312
+2025-03-31,Empregado de empresa privada,Home equity,Consumo e habitação,4714.627,59.096,6.593
+2025-03-31,Empregado de empresa privada,Outros,Consumo e habitação,27208.096,4281.874,1398.319
+2025-03-31,Empregado de empresa privada,Rural,Rural,26607.539,799.553,529.399
+2025-03-31,Empregado de empresa privada,Veículos,Consumo e habitação,97044.76,3827.951,766.026
+2025-03-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,101.609,11.081,9.331
+2025-03-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,22.192,3.091,3.089
+2025-03-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,56.561,40.577,40.179
+2025-03-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,554.7,0.072,0.071
+2025-03-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,37.992,5.035,4.949
+2025-03-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,445.481,14.951,4.865
+2025-03-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,368.741,25.776,10.549
+2025-03-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1543.37,17.823,1.064
+2025-03-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,24.077,0.048,0.025
+2025-03-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,138.702,21.713,7.493
+2025-03-31,Empregado de entidades sem fins lucrativos,Rural,Rural,279.06,3.328,1.834
+2025-03-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,385.381,17.13,3.952
+2025-03-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8050.998,989.877,838.193
+2025-03-31,Empresário,Cartão: rotativo,Consumo e habitação,2331.757,169.739,169.071
+2025-03-31,Empresário,Cartão: saldo não migrado (legado),Legado,5858.782,4071.865,3985.827
+2025-03-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,84570.715,6.201,5.982
+2025-03-31,Empresário,Cheque especial,Consumo e habitação,7036.308,682.098,665.856
+2025-03-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15038.199,353.099,98.168
+2025-03-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,62073.117,3817.405,1370.579
+2025-03-31,Empresário,Habitacional,Consumo e habitação,218716.123,2710.663,188.26
+2025-03-31,Empresário,Home equity,Consumo e habitação,9825.879,245.981,30.225
+2025-03-31,Empresário,Outros,Consumo e habitação,57136.101,4183.516,1589.066
+2025-03-31,Empresário,Rural,Rural,253976.701,6202.505,3833.586
+2025-03-31,Empresário,Veículos,Consumo e habitação,59519.017,2309.138,462.762
+2025-03-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1735.35,261.938,220.161
+2025-03-31,MEI,Cartão: rotativo,Consumo e habitação,502.473,66.81,66.393
+2025-03-31,MEI,Cartão: saldo não migrado (legado),Legado,1460.693,1081.954,1065.237
+2025-03-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,11722.421,2.461,2.353
+2025-03-31,MEI,Cheque especial,Consumo e habitação,675.918,99.941,97.49
+2025-03-31,MEI,Crédito pessoal consignado,Consumo e habitação,1589.068,57.81,19.177
+2025-03-31,MEI,Crédito pessoal não consignado,Consumo e habitação,4609.539,549.056,246.666
+2025-03-31,MEI,Habitacional,Consumo e habitação,28396.504,460.715,26.465
+2025-03-31,MEI,Home equity,Consumo e habitação,322.816,9.266,1.149
+2025-03-31,MEI,Outros,Consumo e habitação,2729.767,455.228,156.996
+2025-03-31,MEI,Rural,Rural,1117.148,43.081,26.518
+2025-03-31,MEI,Veículos,Consumo e habitação,12656.046,605.064,120.063
+2025-03-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,37463.12,4709.25,3927.711
+2025-03-31,Outros,Cartão: rotativo,Consumo e habitação,8360.282,1511.339,1508.82
+2025-03-31,Outros,Cartão: saldo não migrado (legado),Legado,18736.486,14349.277,14227.53
+2025-03-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,127547.498,66.415,63.955
+2025-03-31,Outros,Cheque especial,Consumo e habitação,7485.691,1270.416,1252.353
+2025-03-31,Outros,Crédito pessoal consignado,Consumo e habitação,204302.861,5896.179,1960.626
+2025-03-31,Outros,Crédito pessoal não consignado,Consumo e habitação,98682.693,9975.99,4602.047
+2025-03-31,Outros,Habitacional,Consumo e habitação,226368.141,4820.702,304.24
+2025-03-31,Outros,Home equity,Consumo e habitação,2341.345,48.903,5.691
+2025-03-31,Outros,Outros,Consumo e habitação,48784.078,6511.456,2857.029
+2025-03-31,Outros,Rural,Rural,194819.368,5234.427,3002.681
+2025-03-31,Outros,Veículos,Consumo e habitação,105161.659,7572.475,1658.976
+2025-03-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11877.268,868.953,732.672
+2025-03-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4261.851,343.938,343.422
+2025-03-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5289.84,3652.784,3608.846
+2025-03-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,67807.351,8.901,8.56
+2025-03-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4242.039,362.429,354.959
+2025-03-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,257074.175,5887.244,1163.657
+2025-03-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,35403.524,2705.182,883.139
+2025-03-31,Servidor ou empregado público,Habitacional,Consumo e habitação,182295.76,1255.823,90.742
+2025-03-31,Servidor ou empregado público,Home equity,Consumo e habitação,2797.599,41.36,6.654
+2025-03-31,Servidor ou empregado público,Outros,Consumo e habitação,17525.934,2364.427,652.725
+2025-03-31,Servidor ou empregado público,Rural,Rural,18518.152,489.285,269.978
+2025-03-31,Servidor ou empregado público,Veículos,Consumo e habitação,39208.204,1256.286,240.565
+2025-04-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11608.838,419.505,366.412
+2025-04-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2507.488,293.475,293.269
+2025-04-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2781.614,2035.357,2028.359
+2025-04-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,36382.592,4.528,4.319
+2025-04-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2970.294,286.96,285.777
+2025-04-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,165177.772,3703.206,894.813
+2025-04-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23746.689,1783.021,702.492
+2025-04-30,Aposentado/pensionista,Habitacional,Consumo e habitação,26023.387,290.872,29.165
+2025-04-30,Aposentado/pensionista,Home equity,Consumo e habitação,1438.044,44.501,7.371
+2025-04-30,Aposentado/pensionista,Outros,Consumo e habitação,10103.452,1368.569,435.455
+2025-04-30,Aposentado/pensionista,Rural,Rural,12513.235,288.655,170.22
+2025-04-30,Aposentado/pensionista,Veículos,Consumo e habitação,18471.522,739.694,154.688
+2025-04-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4686.117,600.753,506.958
+2025-04-30,Autônomo,Cartão: rotativo,Consumo e habitação,1278.172,154.547,153.919
+2025-04-30,Autônomo,Cartão: saldo não migrado (legado),Legado,3221.792,2376.14,2367.149
+2025-04-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,32670.784,7.529,7.21
+2025-04-30,Autônomo,Cheque especial,Consumo e habitação,3014.73,379.689,377.494
+2025-04-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,13687.324,407.061,126.089
+2025-04-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27979.618,2268.547,952.039
+2025-04-30,Autônomo,Habitacional,Consumo e habitação,75152.619,1344.037,99.085
+2025-04-30,Autônomo,Home equity,Consumo e habitação,2422.59,62.359,9.485
+2025-04-30,Autônomo,Outros,Consumo e habitação,22744.226,2262.784,965.59
+2025-04-30,Autônomo,Rural,Rural,153700.804,5401.092,3366.961
+2025-04-30,Autônomo,Veículos,Consumo e habitação,29492.986,1480.707,323.762
+2025-04-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,17404.387,2224.096,1881.935
+2025-04-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4190.997,510.718,508.715
+2025-04-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,12253.019,8925.035,8891.433
+2025-04-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,109139.668,11.766,11.151
+2025-04-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,8810.365,1052.939,1046.697
+2025-04-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,56677.454,2062.04,762.099
+2025-04-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,83284.132,5532.935,2208.929
+2025-04-30,Empregado de empresa privada,Habitacional,Consumo e habitação,453190.425,4893.31,346.014
+2025-04-30,Empregado de empresa privada,Home equity,Consumo e habitação,4772.814,55.988,6.295
+2025-04-30,Empregado de empresa privada,Outros,Consumo e habitação,27240.601,4519.516,1474.019
+2025-04-30,Empregado de empresa privada,Rural,Rural,26598.606,868.564,584.905
+2025-04-30,Empregado de empresa privada,Veículos,Consumo e habitação,97922.345,3980.398,822.71
+2025-04-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,102.899,11.623,9.779
+2025-04-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,23.882,3.229,3.216
+2025-04-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,59.171,43.072,42.962
+2025-04-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,555.211,0.077,0.077
+2025-04-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,38.707,5.2,5.185
+2025-04-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,457.114,15.518,5.09
+2025-04-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,376.327,28.179,11.662
+2025-04-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1558.791,17.554,0.964
+2025-04-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,24.746,0.308,0.026
+2025-04-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,139.175,22.524,7.88
+2025-04-30,Empregado de entidades sem fins lucrativos,Rural,Rural,277.072,3.334,1.771
+2025-04-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,388.582,17.878,4.354
+2025-04-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8211.547,1016.517,859.512
+2025-04-30,Empresário,Cartão: rotativo,Consumo e habitação,2487.374,182.688,181.843
+2025-04-30,Empresário,Cartão: saldo não migrado (legado),Legado,6091.231,4305.25,4283.699
+2025-04-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,84566.426,6.62,6.362
+2025-04-30,Empresário,Cheque especial,Consumo e habitação,7203.537,716.23,711.649
+2025-04-30,Empresário,Crédito pessoal consignado,Consumo e habitação,15194.013,363.077,103.351
+2025-04-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,62675.119,4021.718,1445.0
+2025-04-30,Empresário,Habitacional,Consumo e habitação,220562.315,2743.6,212.121
+2025-04-30,Empresário,Home equity,Consumo e habitação,9949.445,246.038,32.249
+2025-04-30,Empresário,Outros,Consumo e habitação,57205.071,4609.151,1802.484
+2025-04-30,Empresário,Rural,Rural,252721.31,6699.728,4195.53
+2025-04-30,Empresário,Veículos,Consumo e habitação,59612.035,2348.16,484.817
+2025-04-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1770.677,275.417,232.196
+2025-04-30,MEI,Cartão: rotativo,Consumo e habitação,532.96,72.676,72.136
+2025-04-30,MEI,Cartão: saldo não migrado (legado),Legado,1524.978,1146.108,1141.459
+2025-04-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,11757.706,2.643,2.543
+2025-04-30,MEI,Cheque especial,Consumo e habitação,696.115,102.972,102.211
+2025-04-30,MEI,Crédito pessoal consignado,Consumo e habitação,1629.405,60.9,20.298
+2025-04-30,MEI,Crédito pessoal não consignado,Consumo e habitação,4719.087,592.395,271.657
+2025-04-30,MEI,Habitacional,Consumo e habitação,28784.429,468.271,31.33
+2025-04-30,MEI,Home equity,Consumo e habitação,326.182,8.032,1.082
+2025-04-30,MEI,Outros,Consumo e habitação,2737.887,484.388,165.519
+2025-04-30,MEI,Rural,Rural,1122.484,43.426,27.03
+2025-04-30,MEI,Veículos,Consumo e habitação,12781.851,622.831,128.08
+2025-04-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,38417.396,5038.341,4234.875
+2025-04-30,Outros,Cartão: rotativo,Consumo e habitação,8831.718,1599.463,1596.55
+2025-04-30,Outros,Cartão: saldo não migrado (legado),Legado,19636.923,15320.572,15285.202
+2025-04-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,128331.418,72.715,70.131
+2025-04-30,Outros,Cheque especial,Consumo e habitação,7668.16,1314.771,1307.303
+2025-04-30,Outros,Crédito pessoal consignado,Consumo e habitação,207750.975,6081.618,2062.539
+2025-04-30,Outros,Crédito pessoal não consignado,Consumo e habitação,101292.851,10850.321,5093.817
+2025-04-30,Outros,Habitacional,Consumo e habitação,229917.252,4928.139,365.512
+2025-04-30,Outros,Home equity,Consumo e habitação,2353.951,50.851,6.601
+2025-04-30,Outros,Outros,Consumo e habitação,49024.268,6928.014,3091.866
+2025-04-30,Outros,Rural,Rural,194181.753,5751.389,3339.588
+2025-04-30,Outros,Veículos,Consumo e habitação,106820.616,7997.206,1798.063
+2025-04-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12655.555,899.281,759.078
+2025-04-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4358.637,371.721,371.031
+2025-04-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5612.799,3958.149,3943.992
+2025-04-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,67579.276,9.777,9.378
+2025-04-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4303.221,378.244,375.696
+2025-04-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,257899.907,6094.633,1253.583
+2025-04-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,36200.417,2986.756,1000.312
+2025-04-30,Servidor ou empregado público,Habitacional,Consumo e habitação,183345.118,1287.784,105.354
+2025-04-30,Servidor ou empregado público,Home equity,Consumo e habitação,2811.632,46.267,7.482
+2025-04-30,Servidor ou empregado público,Outros,Consumo e habitação,17618.84,2552.374,699.715
+2025-04-30,Servidor ou empregado público,Rural,Rural,18582.802,560.575,308.67
+2025-04-30,Servidor ou empregado público,Veículos,Consumo e habitação,39500.203,1286.392,253.53
+2025-05-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11654.854,429.032,373.106
+2025-05-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2363.77,321.431,321.231
+2025-05-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2740.791,2040.755,2029.655
+2025-05-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,34071.452,4.93,4.693
+2025-05-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2629.126,291.847,289.8
+2025-05-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,161630.699,3630.309,902.995
+2025-05-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23053.134,1756.73,709.546
+2025-05-31,Aposentado/pensionista,Habitacional,Consumo e habitação,24828.163,273.615,25.92
+2025-05-31,Aposentado/pensionista,Home equity,Consumo e habitação,1387.244,39.958,7.584
+2025-05-31,Aposentado/pensionista,Outros,Consumo e habitação,9722.279,1281.938,419.194
+2025-05-31,Aposentado/pensionista,Rural,Rural,11901.177,288.011,167.832
+2025-05-31,Aposentado/pensionista,Veículos,Consumo e habitação,17988.772,766.055,164.33
+2025-05-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4779.779,623.702,527.272
+2025-05-31,Autônomo,Cartão: rotativo,Consumo e habitação,1227.314,179.601,178.867
+2025-05-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3314.443,2500.674,2484.452
+2025-05-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,32586.653,8.213,7.873
+2025-05-31,Autônomo,Cheque especial,Consumo e habitação,2982.544,409.282,406.411
+2025-05-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,13972.027,398.956,125.017
+2025-05-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27564.556,2350.565,1004.977
+2025-05-31,Autônomo,Habitacional,Consumo e habitação,76230.75,1339.368,82.638
+2025-05-31,Autônomo,Home equity,Consumo e habitação,2462.973,64.511,9.586
+2025-05-31,Autônomo,Outros,Consumo e habitação,23047.647,2306.025,1028.948
+2025-05-31,Autônomo,Rural,Rural,151676.532,5646.512,3523.816
+2025-05-31,Autônomo,Veículos,Consumo e habitação,29740.15,1555.579,348.42
+2025-05-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,17631.227,2291.985,1939.952
+2025-05-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4053.814,579.626,577.281
+2025-05-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,12535.309,9283.646,9224.769
+2025-05-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,108020.653,12.368,11.75
+2025-05-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8834.281,1134.692,1123.566
+2025-05-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,57687.359,2095.579,788.443
+2025-05-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,83688.164,5632.724,2272.598
+2025-05-31,Empregado de empresa privada,Habitacional,Consumo e habitação,456265.24,4889.308,284.8
+2025-05-31,Empregado de empresa privada,Home equity,Consumo e habitação,4924.517,62.271,7.114
+2025-05-31,Empregado de empresa privada,Outros,Consumo e habitação,27060.51,4376.208,1445.477
+2025-05-31,Empregado de empresa privada,Rural,Rural,27274.749,929.95,614.578
+2025-05-31,Empregado de empresa privada,Veículos,Consumo e habitação,98586.442,4166.156,881.621
+2025-05-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,105.807,11.821,10.036
+2025-05-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,22.936,3.665,3.655
+2025-05-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,60.411,45.434,45.196
+2025-05-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,551.58,0.085,0.083
+2025-05-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,38.544,5.32,5.286
+2025-05-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,465.8,15.789,5.21
+2025-05-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,376.895,30.098,12.984
+2025-05-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1562.992,16.755,1.137
+2025-05-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.906,0.308,0.026
+2025-05-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,139.567,21.77,7.303
+2025-05-31,Empregado de entidades sem fins lucrativos,Rural,Rural,311.197,3.404,1.867
+2025-05-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,392.656,18.107,4.462
+2025-05-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8299.934,1043.837,880.551
+2025-05-31,Empresário,Cartão: rotativo,Consumo e habitação,2316.151,209.309,208.293
+2025-05-31,Empresário,Cartão: saldo não migrado (legado),Legado,6300.416,4590.23,4551.319
+2025-05-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,82593.278,7.157,6.878
+2025-05-31,Empresário,Cheque especial,Consumo e habitação,7035.508,786.723,779.509
+2025-05-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15423.598,356.931,103.456
+2025-05-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,62735.626,4130.534,1520.038
+2025-05-31,Empresário,Habitacional,Consumo e habitação,217765.375,2791.532,185.925
+2025-05-31,Empresário,Home equity,Consumo e habitação,10020.201,282.758,33.373
+2025-05-31,Empresário,Outros,Consumo e habitação,57612.895,4612.555,1824.602
+2025-05-31,Empresário,Rural,Rural,249570.261,6959.236,4268.238
+2025-05-31,Empresário,Veículos,Consumo e habitação,58229.477,2464.563,524.354
+2025-05-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1754.926,281.707,238.022
+2025-05-31,MEI,Cartão: rotativo,Consumo e habitação,499.059,83.347,82.689
+2025-05-31,MEI,Cartão: saldo não migrado (legado),Legado,1556.048,1196.231,1188.383
+2025-05-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,11457.481,2.837,2.74
+2025-05-31,MEI,Cheque especial,Consumo e habitação,676.205,110.915,109.87
+2025-05-31,MEI,Crédito pessoal consignado,Consumo e habitação,1661.424,54.602,18.047
+2025-05-31,MEI,Crédito pessoal não consignado,Consumo e habitação,4605.365,611.058,285.35
+2025-05-31,MEI,Habitacional,Consumo e habitação,28697.564,460.057,25.762
+2025-05-31,MEI,Home equity,Consumo e habitação,334.695,8.708,1.032
+2025-05-31,MEI,Outros,Consumo e habitação,2682.273,471.731,164.697
+2025-05-31,MEI,Rural,Rural,1142.899,45.46,28.238
+2025-05-31,MEI,Veículos,Consumo e habitação,12490.899,641.657,136.592
+2025-05-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,40078.586,5465.142,4613.483
+2025-05-31,Outros,Cartão: rotativo,Consumo e habitação,8732.072,1957.462,1953.813
+2025-05-31,Outros,Cartão: saldo não migrado (legado),Legado,20434.012,16179.622,16120.956
+2025-05-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,132240.971,79.479,76.947
+2025-05-31,Outros,Cheque especial,Consumo e habitação,7750.66,1417.111,1407.104
+2025-05-31,Outros,Crédito pessoal consignado,Consumo e habitação,212091.925,6178.196,2117.886
+2025-05-31,Outros,Crédito pessoal não consignado,Consumo e habitação,105048.187,11670.552,5584.413
+2025-05-31,Outros,Habitacional,Consumo e habitação,241087.768,5052.824,307.975
+2025-05-31,Outros,Home equity,Consumo e habitação,2424.838,59.346,6.96
+2025-05-31,Outros,Outros,Consumo e habitação,50206.327,7018.353,3217.633
+2025-05-31,Outros,Rural,Rural,193113.205,6019.411,3517.786
+2025-05-31,Outros,Veículos,Consumo e habitação,112009.14,8601.119,1995.956
+2025-05-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,13425.337,940.945,789.271
+2025-05-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4230.411,435.514,434.628
+2025-05-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5572.325,3980.082,3954.596
+2025-05-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,64715.675,10.508,10.086
+2025-05-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4102.772,402.169,397.876
+2025-05-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,260746.721,6498.066,1356.76
+2025-05-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,36309.292,3107.353,1038.05
+2025-05-31,Servidor ou empregado público,Habitacional,Consumo e habitação,183584.798,1290.957,88.976
+2025-05-31,Servidor ou empregado público,Home equity,Consumo e habitação,2851.334,44.247,7.435
+2025-05-31,Servidor ou empregado público,Outros,Consumo e habitação,17673.09,2581.299,712.673
+2025-05-31,Servidor ou empregado público,Rural,Rural,18736.336,581.973,333.498
+2025-05-31,Servidor ou empregado público,Veículos,Consumo e habitação,39693.363,1364.536,273.134
+2025-06-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11834.324,425.171,366.384
+2025-06-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2509.258,346.867,337.806
+2025-06-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2817.887,2109.419,2098.44
+2025-06-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,36632.735,5.286,4.979
+2025-06-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2641.229,290.284,288.372
+2025-06-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,162501.522,3674.225,858.528
+2025-06-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23500.244,1822.693,724.075
+2025-06-30,Aposentado/pensionista,Habitacional,Consumo e habitação,25723.617,254.95,26.201
+2025-06-30,Aposentado/pensionista,Home equity,Consumo e habitação,1429.662,37.864,7.199
+2025-06-30,Aposentado/pensionista,Outros,Consumo e habitação,9929.084,1311.143,439.06
+2025-06-30,Aposentado/pensionista,Rural,Rural,12340.877,321.052,179.271
+2025-06-30,Aposentado/pensionista,Veículos,Consumo e habitação,18558.132,788.764,174.398
+2025-06-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4803.236,650.159,551.31
+2025-06-30,Autônomo,Cartão: rotativo,Consumo e habitação,1403.04,188.934,187.446
+2025-06-30,Autônomo,Cartão: saldo não migrado (legado),Legado,3369.879,2546.644,2530.193
+2025-06-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,33455.591,8.843,8.549
+2025-06-30,Autônomo,Cheque especial,Consumo e habitação,3066.017,408.316,405.807
+2025-06-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,13741.804,414.374,123.731
+2025-06-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,27918.341,2499.339,1095.053
+2025-06-30,Autônomo,Habitacional,Consumo e habitação,76626.73,1228.429,97.682
+2025-06-30,Autônomo,Home equity,Consumo e habitação,2474.406,63.102,10.026
+2025-06-30,Autônomo,Outros,Consumo e habitação,23060.556,2429.621,1107.623
+2025-06-30,Autônomo,Rural,Rural,151681.384,5870.617,3610.243
+2025-06-30,Autônomo,Veículos,Consumo e habitação,29937.397,1595.301,365.17
+2025-06-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,17917.82,2382.502,2020.234
+2025-06-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4382.325,623.022,618.535
+2025-06-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,12819.414,9484.106,9432.144
+2025-06-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,111573.187,13.432,12.812
+2025-06-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,8891.698,1118.178,1109.418
+2025-06-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,58034.403,2161.99,806.899
+2025-06-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,85139.092,6022.182,2475.211
+2025-06-30,Empregado de empresa privada,Habitacional,Consumo e habitação,461147.526,4346.466,366.076
+2025-06-30,Empregado de empresa privada,Home equity,Consumo e habitação,4934.703,62.454,7.476
+2025-06-30,Empregado de empresa privada,Outros,Consumo e habitação,27344.723,4381.363,1480.307
+2025-06-30,Empregado de empresa privada,Rural,Rural,26640.28,941.604,628.388
+2025-06-30,Empregado de empresa privada,Veículos,Consumo e habitação,99829.859,4322.413,939.858
+2025-06-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,105.461,12.247,10.344
+2025-06-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.27,4.028,3.997
+2025-06-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,60.551,45.635,45.418
+2025-06-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,568.209,0.086,0.084
+2025-06-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,38.637,5.385,5.348
+2025-06-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,463.441,16.065,5.077
+2025-06-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,381.735,32.735,14.397
+2025-06-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1583.593,16.649,1.31
+2025-06-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.45,0.08,0.037
+2025-06-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,134.585,20.545,7.262
+2025-06-30,Empregado de entidades sem fins lucrativos,Rural,Rural,267.607,2.695,1.753
+2025-06-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,397.538,18.924,4.681
+2025-06-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8451.525,1071.467,904.901
+2025-06-30,Empresário,Cartão: rotativo,Consumo e habitação,2813.72,221.009,219.335
+2025-06-30,Empresário,Cartão: saldo não migrado (legado),Legado,6452.161,4663.931,4627.435
+2025-06-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,86605.792,7.816,7.385
+2025-06-30,Empresário,Cheque especial,Consumo e habitação,7359.924,788.0,781.943
+2025-06-30,Empresário,Crédito pessoal consignado,Consumo e habitação,15175.539,364.324,100.87
+2025-06-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,64216.159,4417.376,1645.305
+2025-06-30,Empresário,Habitacional,Consumo e habitação,223816.344,2549.242,214.634
+2025-06-30,Empresário,Home equity,Consumo e habitação,10269.26,266.401,35.162
+2025-06-30,Empresário,Outros,Consumo e habitação,57528.107,4675.267,1906.107
+2025-06-30,Empresário,Rural,Rural,249144.75,7077.65,4302.596
+2025-06-30,Empresário,Veículos,Consumo e habitação,60064.938,2555.136,553.57
+2025-06-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1820.234,301.041,255.71
+2025-06-30,MEI,Cartão: rotativo,Consumo e habitação,557.886,89.194,88.37
+2025-06-30,MEI,Cartão: saldo não migrado (legado),Legado,1619.43,1244.224,1237.274
+2025-06-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,12032.717,3.107,3.033
+2025-06-30,MEI,Cheque especial,Consumo e habitação,700.676,112.256,111.303
+2025-06-30,MEI,Crédito pessoal consignado,Consumo e habitação,1666.777,63.649,20.298
+2025-06-30,MEI,Crédito pessoal não consignado,Consumo e habitação,4847.507,677.035,322.654
+2025-06-30,MEI,Habitacional,Consumo e habitação,29660.26,424.914,31.353
+2025-06-30,MEI,Home equity,Consumo e habitação,340.308,9.618,1.232
+2025-06-30,MEI,Outros,Consumo e habitação,2725.224,477.81,171.387
+2025-06-30,MEI,Rural,Rural,1147.773,50.23,33.149
+2025-06-30,MEI,Veículos,Consumo e habitação,13035.95,681.492,148.438
+2025-06-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,39710.354,5687.833,4840.946
+2025-06-30,Outros,Cartão: rotativo,Consumo e habitação,9136.005,2011.119,1999.679
+2025-06-30,Outros,Cartão: saldo não migrado (legado),Legado,20481.209,16282.538,16229.518
+2025-06-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,133243.027,84.009,81.285
+2025-06-30,Outros,Cheque especial,Consumo e habitação,7753.714,1386.565,1379.103
+2025-06-30,Outros,Crédito pessoal consignado,Consumo e habitação,209129.893,6153.313,2033.886
+2025-06-30,Outros,Crédito pessoal não consignado,Consumo e habitação,105266.293,12356.874,6022.431
+2025-06-30,Outros,Habitacional,Consumo e habitação,238020.045,4509.316,374.878
+2025-06-30,Outros,Home equity,Consumo e habitação,2431.424,52.24,6.38
+2025-06-30,Outros,Outros,Consumo e habitação,49669.822,6982.598,3293.502
+2025-06-30,Outros,Rural,Rural,192953.435,6135.55,3524.891
+2025-06-30,Outros,Veículos,Consumo e habitação,110468.304,8728.443,2076.748
+2025-06-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,13253.266,959.061,800.799
+2025-06-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4367.762,468.89,466.896
+2025-06-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5733.33,4134.503,4109.482
+2025-06-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,68840.941,11.433,10.962
+2025-06-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4142.575,401.264,397.536
+2025-06-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,259336.477,6471.699,1231.411
+2025-06-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,36650.939,3319.353,1122.908
+2025-06-30,Servidor ou empregado público,Habitacional,Consumo e habitação,185028.273,1138.059,101.887
+2025-06-30,Servidor ou empregado público,Home equity,Consumo e habitação,2861.146,42.969,6.588
+2025-06-30,Servidor ou empregado público,Outros,Consumo e habitação,17625.991,2603.05,745.683
+2025-06-30,Servidor ou empregado público,Rural,Rural,18724.549,581.702,329.82
+2025-06-30,Servidor ou empregado público,Veículos,Consumo e habitação,40133.92,1403.193,286.861
+2025-07-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11067.438,426.335,354.9
+2025-07-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2189.157,340.976,340.846
+2025-07-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2884.783,2203.575,2188.745
+2025-07-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,37580.354,5.534,5.275
+2025-07-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2674.631,307.702,305.172
+2025-07-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,162175.423,3605.051,772.449
+2025-07-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23757.113,1888.864,739.957
+2025-07-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25750.142,259.076,26.113
+2025-07-31,Aposentado/pensionista,Home equity,Consumo e habitação,1424.209,36.452,7.819
+2025-07-31,Aposentado/pensionista,Outros,Consumo e habitação,9811.753,1316.484,438.618
+2025-07-31,Aposentado/pensionista,Rural,Rural,12313.189,376.018,222.657
+2025-07-31,Aposentado/pensionista,Veículos,Consumo e habitação,18732.099,818.304,187.798
+2025-07-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4797.455,660.304,554.082
+2025-07-31,Autônomo,Cartão: rotativo,Consumo e habitação,1286.053,174.167,173.317
+2025-07-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3491.664,2681.94,2660.004
+2025-07-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,34204.136,9.27,8.949
+2025-07-31,Autônomo,Cheque especial,Consumo e habitação,3013.717,431.296,427.269
+2025-07-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,13824.703,412.336,117.617
+2025-07-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,28879.353,2681.766,1151.085
+2025-07-31,Autônomo,Habitacional,Consumo e habitação,77371.004,1238.838,102.48
+2025-07-31,Autônomo,Home equity,Consumo e habitação,2501.779,64.988,11.777
+2025-07-31,Autônomo,Outros,Consumo e habitação,23559.511,2667.491,1210.268
+2025-07-31,Autônomo,Rural,Rural,151167.537,7353.806,4538.699
+2025-07-31,Autônomo,Veículos,Consumo e habitação,30125.544,1661.02,393.468
+2025-07-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,17878.316,2414.941,2021.171
+2025-07-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4163.834,572.47,570.188
+2025-07-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,13265.307,10001.542,9924.539
+2025-07-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,113636.498,14.247,13.648
+2025-07-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8771.269,1183.92,1170.379
+2025-07-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,59679.597,2210.965,820.825
+2025-07-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,86412.036,6400.092,2543.379
+2025-07-31,Empregado de empresa privada,Habitacional,Consumo e habitação,464966.881,4431.501,374.946
+2025-07-31,Empregado de empresa privada,Home equity,Consumo e habitação,5023.12,59.217,7.896
+2025-07-31,Empregado de empresa privada,Outros,Consumo e habitação,27113.206,4491.871,1498.992
+2025-07-31,Empregado de empresa privada,Rural,Rural,26650.074,1166.321,778.98
+2025-07-31,Empregado de empresa privada,Veículos,Consumo e habitação,100909.872,4487.821,1013.154
+2025-07-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,103.627,12.092,10.005
+2025-07-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,23.214,3.732,3.718
+2025-07-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,62.423,47.755,47.54
+2025-07-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,580.766,0.096,0.095
+2025-07-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,38.061,5.514,5.488
+2025-07-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,469.914,15.797,4.915
+2025-07-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,387.285,34.517,14.621
+2025-07-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1598.352,17.347,1.263
+2025-07-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.577,0.048,0.026
+2025-07-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,133.59,21.315,7.625
+2025-07-31,Empregado de entidades sem fins lucrativos,Rural,Rural,265.623,4.084,3.235
+2025-07-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,398.499,19.236,4.988
+2025-07-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8519.073,1082.732,909.589
+2025-07-31,Empresário,Cartão: rotativo,Consumo e habitação,2394.037,211.849,210.836
+2025-07-31,Empresário,Cartão: saldo não migrado (legado),Legado,6698.466,4953.513,4900.25
+2025-07-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,88654.087,8.432,7.981
+2025-07-31,Empresário,Cheque especial,Consumo e habitação,7145.582,837.69,828.283
+2025-07-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15200.26,351.1,91.92
+2025-07-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,64471.292,4786.961,1766.049
+2025-07-31,Empresário,Habitacional,Consumo e habitação,225657.452,2527.869,227.058
+2025-07-31,Empresário,Home equity,Consumo e habitação,10328.827,270.091,37.278
+2025-07-31,Empresário,Outros,Consumo e habitação,58157.683,4973.225,2029.278
+2025-07-31,Empresário,Rural,Rural,248239.676,9101.058,5467.329
+2025-07-31,Empresário,Veículos,Consumo e habitação,60261.807,2637.812,594.208
+2025-07-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1831.878,306.793,257.647
+2025-07-31,MEI,Cartão: rotativo,Consumo e habitação,531.926,78.263,77.712
+2025-07-31,MEI,Cartão: saldo não migrado (legado),Legado,1681.195,1317.691,1307.541
+2025-07-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,12321.558,3.454,3.362
+2025-07-31,MEI,Cheque especial,Consumo e habitação,691.141,119.538,118.209
+2025-07-31,MEI,Crédito pessoal consignado,Consumo e habitação,1701.666,64.743,20.213
+2025-07-31,MEI,Crédito pessoal não consignado,Consumo e habitação,4963.79,715.495,329.797
+2025-07-31,MEI,Habitacional,Consumo e habitação,30152.464,439.137,34.496
+2025-07-31,MEI,Home equity,Consumo e habitação,347.099,11.701,1.276
+2025-07-31,MEI,Outros,Consumo e habitação,2691.167,483.495,168.901
+2025-07-31,MEI,Rural,Rural,1146.489,54.002,35.701
+2025-07-31,MEI,Veículos,Consumo e habitação,13210.459,715.015,160.787
+2025-07-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,39238.719,5812.664,4888.842
+2025-07-31,Outros,Cartão: rotativo,Consumo e habitação,9392.661,1637.333,1634.421
+2025-07-31,Outros,Cartão: saldo não migrado (legado),Legado,21006.537,16932.728,16857.363
+2025-07-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,135617.837,89.217,86.512
+2025-07-31,Outros,Cheque especial,Consumo e habitação,7805.08,1463.838,1453.179
+2025-07-31,Outros,Crédito pessoal consignado,Consumo e habitação,211103.754,6055.35,1923.536
+2025-07-31,Outros,Crédito pessoal não consignado,Consumo e habitação,107823.397,13090.897,6214.499
+2025-07-31,Outros,Habitacional,Consumo e habitação,241382.7,4573.404,373.626
+2025-07-31,Outros,Home equity,Consumo e habitação,2450.649,54.469,7.806
+2025-07-31,Outros,Outros,Consumo e habitação,49721.796,7202.359,3294.811
+2025-07-31,Outros,Rural,Rural,192233.521,7386.103,4353.309
+2025-07-31,Outros,Veículos,Consumo e habitação,112220.405,9089.668,2242.695
+2025-07-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11580.281,973.236,788.069
+2025-07-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3677.91,422.044,421.145
+2025-07-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,5946.007,4422.107,4390.304
+2025-07-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,70927.266,12.425,12.015
+2025-07-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4022.995,427.163,422.041
+2025-07-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,259700.118,6609.323,1130.012
+2025-07-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,36923.205,3535.756,1171.887
+2025-07-31,Servidor ou empregado público,Habitacional,Consumo e habitação,185868.566,1156.437,100.929
+2025-07-31,Servidor ou empregado público,Home equity,Consumo e habitação,2882.109,43.129,6.231
+2025-07-31,Servidor ou empregado público,Outros,Consumo e habitação,17463.568,2678.316,764.784
+2025-07-31,Servidor ou empregado público,Rural,Rural,18698.922,698.738,403.805
+2025-07-31,Servidor ou empregado público,Veículos,Consumo e habitação,40547.925,1456.315,308.362
+2025-08-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10965.043,417.02,348.257
+2025-08-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2177.966,333.066,332.779
+2025-08-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,2946.765,2248.545,2231.799
+2025-08-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,36724.165,5.428,5.196
+2025-08-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2715.262,308.257,305.176
+2025-08-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160092.221,3572.679,763.096
+2025-08-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,23773.618,1881.111,756.383
+2025-08-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25175.685,255.639,32.506
+2025-08-31,Aposentado/pensionista,Home equity,Consumo e habitação,1415.223,36.66,8.288
+2025-08-31,Aposentado/pensionista,Outros,Consumo e habitação,9669.357,1345.935,461.801
+2025-08-31,Aposentado/pensionista,Rural,Rural,12166.915,412.192,239.246
+2025-08-31,Aposentado/pensionista,Veículos,Consumo e habitação,18595.542,820.012,196.656
+2025-08-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4833.219,654.54,552.602
+2025-08-31,Autônomo,Cartão: rotativo,Consumo e habitação,1321.324,176.116,174.734
+2025-08-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3607.987,2791.04,2763.658
+2025-08-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,34345.312,9.124,8.823
+2025-08-31,Autônomo,Cheque especial,Consumo e habitação,3014.891,439.735,434.583
+2025-08-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,14049.988,394.445,112.02
+2025-08-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,28976.683,2778.808,1226.842
+2025-08-31,Autônomo,Habitacional,Consumo e habitação,78356.858,1231.293,137.511
+2025-08-31,Autônomo,Home equity,Consumo e habitação,2571.024,72.867,13.513
+2025-08-31,Autônomo,Outros,Consumo e habitação,23832.498,3085.152,1438.66
+2025-08-31,Autônomo,Rural,Rural,152575.975,9134.009,5468.978
+2025-08-31,Autônomo,Veículos,Consumo e habitação,30408.371,1683.396,415.192
+2025-08-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18002.88,2390.365,2009.618
+2025-08-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4275.983,579.383,575.201
+2025-08-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,13750.848,10476.099,10383.875
+2025-08-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,114106.715,14.138,13.535
+2025-08-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8970.39,1218.098,1200.789
+2025-08-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,62237.184,2218.335,825.605
+2025-08-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,86323.478,6516.57,2679.047
+2025-08-31,Empregado de empresa privada,Habitacional,Consumo e habitação,469657.53,4638.545,485.743
+2025-08-31,Empregado de empresa privada,Home equity,Consumo e habitação,5161.173,66.947,11.298
+2025-08-31,Empregado de empresa privada,Outros,Consumo e habitação,27368.827,4683.948,1602.367
+2025-08-31,Empregado de empresa privada,Rural,Rural,27705.525,1477.585,975.288
+2025-08-31,Empregado de empresa privada,Veículos,Consumo e habitação,102163.16,4591.441,1075.1
+2025-08-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,105.058,12.092,10.01
+2025-08-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,23.448,3.606,3.584
+2025-08-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,64.991,50.093,49.766
+2025-08-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,583.838,0.079,0.077
+2025-08-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,39.359,5.58,5.517
+2025-08-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,480.134,15.842,5.078
+2025-08-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,389.007,34.939,15.437
+2025-08-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1601.994,16.508,1.151
+2025-08-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.796,0.601,0.057
+2025-08-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,137.408,22.379,8.389
+2025-08-31,Empregado de entidades sem fins lucrativos,Rural,Rural,306.514,16.319,15.12
+2025-08-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,402.664,19.822,5.337
+2025-08-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8528.969,1072.248,906.561
+2025-08-31,Empresário,Cartão: rotativo,Consumo e habitação,2474.72,215.97,214.248
+2025-08-31,Empresário,Cartão: saldo não migrado (legado),Legado,6943.372,5202.121,5136.692
+2025-08-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,87624.243,8.366,7.923
+2025-08-31,Empresário,Cheque especial,Consumo e habitação,7096.278,858.201,846.128
+2025-08-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15382.018,346.856,89.811
+2025-08-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,64419.771,4902.366,1820.732
+2025-08-31,Empresário,Habitacional,Consumo e habitação,224240.614,2668.753,299.739
+2025-08-31,Empresário,Home equity,Consumo e habitação,10497.34,301.067,47.532
+2025-08-31,Empresário,Outros,Consumo e habitação,57920.852,5255.305,2209.703
+2025-08-31,Empresário,Rural,Rural,249512.009,11509.47,6573.223
+2025-08-31,Empresário,Veículos,Consumo e habitação,59522.664,2673.307,625.648
+2025-08-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1816.105,300.875,253.776
+2025-08-31,MEI,Cartão: rotativo,Consumo e habitação,542.935,79.666,78.66
+2025-08-31,MEI,Cartão: saldo não migrado (legado),Legado,1723.476,1361.775,1350.611
+2025-08-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,12274.025,3.537,3.469
+2025-08-31,MEI,Cheque especial,Consumo e habitação,691.864,119.774,118.162
+2025-08-31,MEI,Crédito pessoal consignado,Consumo e habitação,1744.453,59.071,18.209
+2025-08-31,MEI,Crédito pessoal não consignado,Consumo e habitação,4948.625,721.307,345.382
+2025-08-31,MEI,Habitacional,Consumo e habitação,30366.164,454.341,44.113
+2025-08-31,MEI,Home equity,Consumo e habitação,352.016,10.565,1.149
+2025-08-31,MEI,Outros,Consumo e habitação,2681.406,497.643,183.372
+2025-08-31,MEI,Rural,Rural,1190.06,68.575,46.448
+2025-08-31,MEI,Veículos,Consumo e habitação,13136.523,725.145,168.631
+2025-08-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,40068.975,5906.032,5003.182
+2025-08-31,Outros,Cartão: rotativo,Consumo e habitação,9685.673,1658.424,1652.792
+2025-08-31,Outros,Cartão: saldo não migrado (legado),Legado,21828.081,17685.568,17596.951
+2025-08-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,139159.144,89.081,86.436
+2025-08-31,Outros,Cheque especial,Consumo e habitação,7904.932,1502.988,1489.317
+2025-08-31,Outros,Crédito pessoal consignado,Consumo e habitação,214775.748,6036.883,1899.164
+2025-08-31,Outros,Crédito pessoal não consignado,Consumo e habitação,110526.422,13680.882,6739.14
+2025-08-31,Outros,Habitacional,Consumo e habitação,249143.791,4785.984,464.13
+2025-08-31,Outros,Home equity,Consumo e habitação,2502.829,67.355,9.936
+2025-08-31,Outros,Outros,Consumo e habitação,50702.837,7861.513,3723.668
+2025-08-31,Outros,Rural,Rural,196528.892,8883.964,5145.967
+2025-08-31,Outros,Veículos,Consumo e habitação,116059.75,9467.366,2421.884
+2025-08-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11358.629,962.573,779.693
+2025-08-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3765.001,409.263,407.746
+2025-08-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6188.053,4671.955,4632.404
+2025-08-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,70346.598,12.647,12.242
+2025-08-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4197.795,447.445,440.662
+2025-08-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,260661.231,6774.2,1160.662
+2025-08-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,37416.595,3617.984,1241.537
+2025-08-31,Servidor ou empregado público,Habitacional,Consumo e habitação,186710.51,1220.802,133.234
+2025-08-31,Servidor ou empregado público,Home equity,Consumo e habitação,2932.345,57.868,9.762
+2025-08-31,Servidor ou empregado público,Outros,Consumo e habitação,17494.339,2809.682,824.694
+2025-08-31,Servidor ou empregado público,Rural,Rural,19069.364,835.844,484.124
+2025-08-31,Servidor ou empregado público,Veículos,Consumo e habitação,40952.464,1476.206,326.219
+2025-09-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11232.923,452.599,357.545
+2025-09-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2141.927,317.58,317.398
+2025-09-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3025.248,2300.293,2281.005
+2025-09-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,37260.827,5.7,5.418
+2025-09-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2889.46,305.324,302.213
+2025-09-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,161085.068,3377.756,736.616
+2025-09-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24125.55,1750.801,738.143
+2025-09-30,Aposentado/pensionista,Habitacional,Consumo e habitação,25615.104,264.811,33.435
+2025-09-30,Aposentado/pensionista,Home equity,Consumo e habitação,1452.971,38.084,8.827
+2025-09-30,Aposentado/pensionista,Outros,Consumo e habitação,9592.043,1211.818,423.336
+2025-09-30,Aposentado/pensionista,Rural,Rural,12533.743,465.344,282.54
+2025-09-30,Aposentado/pensionista,Veículos,Consumo e habitação,18995.052,849.55,210.202
+2025-09-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4877.357,667.548,561.433
+2025-09-30,Autônomo,Cartão: rotativo,Consumo e habitação,1335.533,185.351,184.567
+2025-09-30,Autônomo,Cartão: saldo não migrado (legado),Legado,3716.967,2898.397,2872.097
+2025-09-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,34704.427,9.158,8.858
+2025-09-30,Autônomo,Cheque especial,Consumo e habitação,3135.118,448.898,443.824
+2025-09-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,14069.592,399.392,113.516
+2025-09-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,29173.698,2767.288,1218.028
+2025-09-30,Autônomo,Habitacional,Consumo e habitação,78937.132,1221.814,133.624
+2025-09-30,Autônomo,Home equity,Consumo e habitação,2589.877,75.404,12.493
+2025-09-30,Autônomo,Outros,Consumo e habitação,23766.038,3021.633,1404.38
+2025-09-30,Autônomo,Rural,Rural,153735.957,9445.362,5644.956
+2025-09-30,Autônomo,Veículos,Consumo e habitação,30682.902,1718.111,433.763
+2025-09-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18269.668,2430.032,2036.642
+2025-09-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4353.346,602.024,599.49
+2025-09-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,14145.385,10871.257,10769.072
+2025-09-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,114894.271,14.274,13.671
+2025-09-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,9400.431,1262.359,1244.293
+2025-09-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,65141.925,2265.45,838.55
+2025-09-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,87326.681,6205.748,2627.115
+2025-09-30,Empregado de empresa privada,Habitacional,Consumo e habitação,473662.466,4626.64,499.424
+2025-09-30,Empregado de empresa privada,Home equity,Consumo e habitação,5211.404,58.234,9.156
+2025-09-30,Empregado de empresa privada,Outros,Consumo e habitação,26966.651,4373.994,1498.414
+2025-09-30,Empregado de empresa privada,Rural,Rural,27452.132,1521.936,976.067
+2025-09-30,Empregado de empresa privada,Veículos,Consumo e habitação,103360.782,4670.179,1118.738
+2025-09-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,106.097,12.05,9.931
+2025-09-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.038,3.711,3.7
+2025-09-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,65.965,50.137,49.632
+2025-09-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,584.324,0.084,0.083
+2025-09-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,41.143,5.732,5.655
+2025-09-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,491.781,16.335,5.075
+2025-09-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,395.186,33.709,15.126
+2025-09-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1632.371,15.648,1.103
+2025-09-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.779,0.307,0.027
+2025-09-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,132.106,19.444,7.171
+2025-09-30,Empregado de entidades sem fins lucrativos,Rural,Rural,282.465,3.376,2.231
+2025-09-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,405.933,20.431,5.5
+2025-09-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8680.268,1085.914,916.548
+2025-09-30,Empresário,Cartão: rotativo,Consumo e habitação,2571.813,229.605,228.545
+2025-09-30,Empresário,Cartão: saldo não migrado (legado),Legado,7231.438,5456.173,5385.42
+2025-09-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,90031.533,8.368,7.96
+2025-09-30,Empresário,Cheque especial,Consumo e habitação,7499.249,882.483,870.352
+2025-09-30,Empresário,Crédito pessoal consignado,Consumo e habitação,15353.812,346.542,89.996
+2025-09-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,65110.049,4821.409,1786.74
+2025-09-30,Empresário,Habitacional,Consumo e habitação,229379.305,2540.316,291.97
+2025-09-30,Empresário,Home equity,Consumo e habitação,10794.512,289.954,42.696
+2025-09-30,Empresário,Outros,Consumo e habitação,58248.861,5128.214,2223.055
+2025-09-30,Empresário,Rural,Rural,250244.54,11852.699,6937.0
+2025-09-30,Empresário,Veículos,Consumo e habitação,61065.101,2710.124,651.335
+2025-09-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1858.347,310.672,261.602
+2025-09-30,MEI,Cartão: rotativo,Consumo e habitação,551.597,84.954,84.356
+2025-09-30,MEI,Cartão: saldo não migrado (legado),Legado,1790.518,1426.01,1412.245
+2025-09-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,12602.866,3.627,3.539
+2025-09-30,MEI,Cheque especial,Consumo e habitação,717.294,124.676,122.973
+2025-09-30,MEI,Crédito pessoal consignado,Consumo e habitação,1786.456,63.611,18.756
+2025-09-30,MEI,Crédito pessoal não consignado,Consumo e habitação,5103.452,725.463,354.956
+2025-09-30,MEI,Habitacional,Consumo e habitação,31109.554,449.749,44.699
+2025-09-30,MEI,Home equity,Consumo e habitação,362.376,12.086,1.197
+2025-09-30,MEI,Outros,Consumo e habitação,2703.133,480.275,176.774
+2025-09-30,MEI,Rural,Rural,1204.036,70.452,48.436
+2025-09-30,MEI,Veículos,Consumo e habitação,13575.533,755.303,180.366
+2025-09-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,40270.553,5969.375,5032.426
+2025-09-30,Outros,Cartão: rotativo,Consumo e habitação,9373.34,1725.797,1722.486
+2025-09-30,Outros,Cartão: saldo não migrado (legado),Legado,22126.768,18002.857,17910.576
+2025-09-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,138410.147,88.827,85.962
+2025-09-30,Outros,Cheque especial,Consumo e habitação,7954.056,1518.484,1504.871
+2025-09-30,Outros,Crédito pessoal consignado,Consumo e habitação,216165.688,5966.959,1849.234
+2025-09-30,Outros,Crédito pessoal não consignado,Consumo e habitação,111095.233,13542.309,6822.246
+2025-09-30,Outros,Habitacional,Consumo e habitação,249805.026,4719.222,476.548
+2025-09-30,Outros,Home equity,Consumo e habitação,2528.281,57.886,10.027
+2025-09-30,Outros,Outros,Consumo e habitação,50549.243,7754.519,3680.449
+2025-09-30,Outros,Rural,Rural,198364.791,9088.338,5257.115
+2025-09-30,Outros,Veículos,Consumo e habitação,116716.903,9607.587,2530.989
+2025-09-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11542.988,1084.234,796.658
+2025-09-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3792.027,400.528,399.591
+2025-09-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6393.185,4862.946,4819.977
+2025-09-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,70797.87,13.117,12.696
+2025-09-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4454.611,469.161,461.918
+2025-09-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,261056.496,6662.164,1144.349
+2025-09-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,37516.356,3308.835,1204.0
+2025-09-30,Servidor ou empregado público,Habitacional,Consumo e habitação,187931.46,1214.351,132.922
+2025-09-30,Servidor ou empregado público,Home equity,Consumo e habitação,2968.451,49.829,7.807
+2025-09-30,Servidor ou empregado público,Outros,Consumo e habitação,16955.818,2433.09,711.004
+2025-09-30,Servidor ou empregado público,Rural,Rural,19098.666,834.405,489.07
+2025-09-30,Servidor ou empregado público,Veículos,Consumo e habitação,41411.195,1504.677,342.879
+2025-10-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11339.104,474.499,366.8
+2025-10-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2137.406,311.866,311.727
+2025-10-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3099.659,2401.912,2377.782
+2025-10-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,37977.561,6.036,5.714
+2025-10-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2935.644,326.758,322.725
+2025-10-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160678.635,3432.405,732.731
+2025-10-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24493.799,1851.313,766.097
+2025-10-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25468.012,269.475,35.155
+2025-10-31,Aposentado/pensionista,Home equity,Consumo e habitação,1459.892,40.407,8.668
+2025-10-31,Aposentado/pensionista,Outros,Consumo e habitação,9489.503,1204.201,427.941
+2025-10-31,Aposentado/pensionista,Rural,Rural,12591.939,552.972,344.513
+2025-10-31,Aposentado/pensionista,Veículos,Consumo e habitação,19080.489,850.609,212.771
+2025-10-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,4971.598,672.994,565.297
+2025-10-31,Autônomo,Cartão: rotativo,Consumo e habitação,1316.89,177.62,177.015
+2025-10-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3832.583,3038.365,3003.456
+2025-10-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,35648.045,9.207,8.889
+2025-10-31,Autônomo,Cheque especial,Consumo e habitação,3088.539,472.779,466.409
+2025-10-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,14275.852,408.415,112.676
+2025-10-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,29645.994,2867.645,1239.069
+2025-10-31,Autônomo,Habitacional,Consumo e habitação,79729.413,1230.476,143.798
+2025-10-31,Autônomo,Home equity,Consumo e habitação,2645.654,78.045,14.359
+2025-10-31,Autônomo,Outros,Consumo e habitação,24118.292,3253.163,1556.405
+2025-10-31,Autônomo,Rural,Rural,155660.616,11096.858,6611.564
+2025-10-31,Autônomo,Veículos,Consumo e habitação,31085.584,1740.017,447.965
+2025-10-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18635.114,2455.435,2056.39
+2025-10-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4530.906,588.675,586.994
+2025-10-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,14585.383,11399.255,11277.772
+2025-10-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,117346.715,14.472,13.91
+2025-10-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,9521.768,1351.831,1328.891
+2025-10-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,68453.725,2356.615,849.135
+2025-10-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,89162.443,6482.633,2704.689
+2025-10-31,Empregado de empresa privada,Habitacional,Consumo e habitação,478699.05,4854.509,583.895
+2025-10-31,Empregado de empresa privada,Home equity,Consumo e habitação,5329.639,60.52,7.896
+2025-10-31,Empregado de empresa privada,Outros,Consumo e habitação,26867.297,4397.992,1520.246
+2025-10-31,Empregado de empresa privada,Rural,Rural,27999.946,1741.157,1097.531
+2025-10-31,Empregado de empresa privada,Veículos,Consumo e habitação,105005.932,4709.555,1149.828
+2025-10-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,109.111,12.275,9.99
+2025-10-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.202,3.756,3.751
+2025-10-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,67.393,52.515,52.069
+2025-10-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,597.003,0.058,0.057
+2025-10-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,41.007,6.007,5.936
+2025-10-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,504.624,16.868,5.308
+2025-10-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,403.311,35.922,15.779
+2025-10-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1660.761,18.154,1.693
+2025-10-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.202,0.328,0.039
+2025-10-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,131.64,19.894,7.424
+2025-10-31,Empregado de entidades sem fins lucrativos,Rural,Rural,285.067,3.535,2.171
+2025-10-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,415.061,20.579,5.646
+2025-10-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8739.033,1093.946,924.771
+2025-10-31,Empresário,Cartão: rotativo,Consumo e habitação,2565.083,219.185,218.417
+2025-10-31,Empresário,Cartão: saldo não migrado (legado),Legado,7527.747,5775.399,5688.833
+2025-10-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,92717.415,8.276,7.775
+2025-10-31,Empresário,Cheque especial,Consumo e habitação,7393.574,941.677,926.041
+2025-10-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15536.0,349.77,88.547
+2025-10-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,66029.635,5025.771,1833.127
+2025-10-31,Empresário,Habitacional,Consumo e habitação,231360.454,2614.439,308.676
+2025-10-31,Empresário,Home equity,Consumo e habitação,11063.136,293.593,42.045
+2025-10-31,Empresário,Outros,Consumo e habitação,59043.314,5240.648,2313.254
+2025-10-31,Empresário,Rural,Rural,252273.329,13433.054,7796.773
+2025-10-31,Empresário,Veículos,Consumo e habitação,61610.672,2728.096,672.369
+2025-10-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1885.576,314.386,265.063
+2025-10-31,MEI,Cartão: rotativo,Consumo e habitação,548.416,84.61,84.184
+2025-10-31,MEI,Cartão: saldo não migrado (legado),Legado,1851.753,1497.765,1481.772
+2025-10-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,12921.008,3.59,3.522
+2025-10-31,MEI,Cheque especial,Consumo e habitação,709.776,132.667,130.416
+2025-10-31,MEI,Crédito pessoal consignado,Consumo e habitação,1841.839,64.648,18.51
+2025-10-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5241.305,754.19,364.577
+2025-10-31,MEI,Habitacional,Consumo e habitação,31583.822,466.456,52.414
+2025-10-31,MEI,Home equity,Consumo e habitação,368.991,9.925,1.202
+2025-10-31,MEI,Outros,Consumo e habitação,2686.859,478.958,180.144
+2025-10-31,MEI,Rural,Rural,1249.686,81.607,56.764
+2025-10-31,MEI,Veículos,Consumo e habitação,13782.653,761.584,186.626
+2025-10-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,41821.92,6075.584,5114.174
+2025-10-31,Outros,Cartão: rotativo,Consumo e habitação,9381.257,1715.096,1712.688
+2025-10-31,Outros,Cartão: saldo não migrado (legado),Legado,22705.911,18863.316,18751.58
+2025-10-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,141960.636,90.153,87.132
+2025-10-31,Outros,Cheque especial,Consumo e habitação,8082.152,1611.341,1594.094
+2025-10-31,Outros,Crédito pessoal consignado,Consumo e habitação,219735.958,6186.532,1837.466
+2025-10-31,Outros,Crédito pessoal não consignado,Consumo e habitação,114392.298,14299.955,7173.976
+2025-10-31,Outros,Habitacional,Consumo e habitação,255245.469,4885.963,553.765
+2025-10-31,Outros,Home equity,Consumo e habitação,2565.864,53.302,10.119
+2025-10-31,Outros,Outros,Consumo e habitação,50999.226,8055.365,3864.141
+2025-10-31,Outros,Rural,Rural,201466.675,10692.714,6131.075
+2025-10-31,Outros,Veículos,Consumo e habitação,119746.529,9750.506,2594.033
+2025-10-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11929.839,1130.611,815.803
+2025-10-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3742.258,377.616,376.96
+2025-10-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6554.785,5122.456,5069.157
+2025-10-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,72287.172,13.639,13.193
+2025-10-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4560.538,503.497,494.157
+2025-10-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,262372.552,6855.936,1173.428
+2025-10-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,38446.963,3515.58,1270.163
+2025-10-31,Servidor ou empregado público,Habitacional,Consumo e habitação,189141.605,1249.173,150.1
+2025-10-31,Servidor ou empregado público,Home equity,Consumo e habitação,3013.772,49.224,7.329
+2025-10-31,Servidor ou empregado público,Outros,Consumo e habitação,16810.385,2427.389,723.438
+2025-10-31,Servidor ou empregado público,Rural,Rural,19421.305,989.014,586.457
+2025-10-31,Servidor ou empregado público,Veículos,Consumo e habitação,41937.331,1522.657,352.667
+2025-11-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11463.038,492.896,367.303
+2025-11-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2241.286,299.574,299.433
+2025-11-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3159.591,2439.932,2415.191
+2025-11-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,38589.935,5.578,5.266
+2025-11-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2926.927,331.674,327.191
+2025-11-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160031.812,3437.857,761.738
+2025-11-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24596.372,1802.615,746.325
+2025-11-30,Aposentado/pensionista,Habitacional,Consumo e habitação,25367.558,289.622,39.85
+2025-11-30,Aposentado/pensionista,Home equity,Consumo e habitação,1465.146,41.023,8.525
+2025-11-30,Aposentado/pensionista,Outros,Consumo e habitação,9385.53,1141.305,424.239
+2025-11-30,Aposentado/pensionista,Rural,Rural,12670.592,630.402,373.182
+2025-11-30,Aposentado/pensionista,Veículos,Consumo e habitação,19206.666,860.726,218.381
+2025-11-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5053.575,674.986,566.855
+2025-11-30,Autônomo,Cartão: rotativo,Consumo e habitação,1478.515,180.728,180.203
+2025-11-30,Autônomo,Cartão: saldo não migrado (legado),Legado,3912.326,3089.978,3055.151
+2025-11-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,36619.154,8.895,8.597
+2025-11-30,Autônomo,Cheque especial,Consumo e habitação,3171.814,475.273,468.654
+2025-11-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,14407.157,424.209,116.422
+2025-11-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,29831.68,2891.692,1249.1
+2025-11-30,Autônomo,Habitacional,Consumo e habitação,80506.357,1279.025,144.746
+2025-11-30,Autônomo,Home equity,Consumo e habitação,2702.874,78.464,14.447
+2025-11-30,Autônomo,Outros,Consumo e habitação,24275.845,3295.93,1611.857
+2025-11-30,Autônomo,Rural,Rural,157524.258,12286.378,7285.386
+2025-11-30,Autônomo,Veículos,Consumo e habitação,31494.157,1779.108,461.544
+2025-11-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18960.567,2468.972,2063.155
+2025-11-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4857.04,596.192,594.584
+2025-11-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,14928.558,11618.144,11496.376
+2025-11-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,121860.431,14.325,13.647
+2025-11-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,8678.495,1357.826,1332.895
+2025-11-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,71623.72,2555.011,895.594
+2025-11-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,88874.054,6464.829,2721.34
+2025-11-30,Empregado de empresa privada,Habitacional,Consumo e habitação,483220.031,5032.452,588.113
+2025-11-30,Empregado de empresa privada,Home equity,Consumo e habitação,5414.66,67.024,8.37
+2025-11-30,Empregado de empresa privada,Outros,Consumo e habitação,26672.375,4237.218,1539.395
+2025-11-30,Empregado de empresa privada,Rural,Rural,28490.42,1922.648,1204.258
+2025-11-30,Empregado de empresa privada,Veículos,Consumo e habitação,106621.991,4821.839,1188.497
+2025-11-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,110.409,12.097,9.926
+2025-11-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,26.278,3.85,3.843
+2025-11-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,68.618,53.787,53.431
+2025-11-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,618.172,0.064,0.063
+2025-11-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,38.507,6.273,6.173
+2025-11-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,514.21,17.202,5.182
+2025-11-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,406.462,34.678,15.308
+2025-11-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1679.897,19.19,2.178
+2025-11-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.196,0.328,0.042
+2025-11-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,129.971,17.696,7.053
+2025-11-30,Empregado de entidades sem fins lucrativos,Rural,Rural,292.237,4.252,2.945
+2025-11-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,419.387,21.517,5.825
+2025-11-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8875.773,1098.412,925.138
+2025-11-30,Empresário,Cartão: rotativo,Consumo e habitação,2942.701,221.356,220.66
+2025-11-30,Empresário,Cartão: saldo não migrado (legado),Legado,7745.724,5925.024,5835.601
+2025-11-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,94861.996,8.427,8.003
+2025-11-30,Empresário,Cheque especial,Consumo e habitação,7658.904,952.786,935.816
+2025-11-30,Empresário,Crédito pessoal consignado,Consumo e habitação,15657.196,362.027,91.048
+2025-11-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,66763.793,5168.52,1875.003
+2025-11-30,Empresário,Habitacional,Consumo e habitação,233158.693,2762.464,320.538
+2025-11-30,Empresário,Home equity,Consumo e habitação,11301.273,302.102,40.723
+2025-11-30,Empresário,Outros,Consumo e habitação,59037.433,5167.974,2415.396
+2025-11-30,Empresário,Rural,Rural,255031.972,14544.92,8341.218
+2025-11-30,Empresário,Veículos,Consumo e habitação,62259.005,2766.417,690.097
+2025-11-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1910.087,316.22,266.067
+2025-11-30,MEI,Cartão: rotativo,Consumo e habitação,607.221,86.974,86.579
+2025-11-30,MEI,Cartão: saldo não migrado (legado),Legado,1898.395,1530.283,1514.801
+2025-11-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13329.21,3.419,3.34
+2025-11-30,MEI,Cheque especial,Consumo e habitação,726.788,134.677,132.191
+2025-11-30,MEI,Crédito pessoal consignado,Consumo e habitação,1885.871,68.651,19.376
+2025-11-30,MEI,Crédito pessoal não consignado,Consumo e habitação,5353.01,767.847,373.133
+2025-11-30,MEI,Habitacional,Consumo e habitação,32014.09,497.2,53.898
+2025-11-30,MEI,Home equity,Consumo e habitação,379.221,8.835,0.864
+2025-11-30,MEI,Outros,Consumo e habitação,2694.682,469.757,181.585
+2025-11-30,MEI,Rural,Rural,1274.049,85.247,58.116
+2025-11-30,MEI,Veículos,Consumo e habitação,13990.104,776.524,193.221
+2025-11-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,42818.088,6183.445,5196.926
+2025-11-30,Outros,Cartão: rotativo,Consumo e habitação,10172.128,1738.274,1735.998
+2025-11-30,Outros,Cartão: saldo não migrado (legado),Legado,23272.213,19235.507,19124.198
+2025-11-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,147601.342,87.36,84.537
+2025-11-30,Outros,Cheque especial,Consumo e habitação,7981.887,1636.149,1617.2
+2025-11-30,Outros,Crédito pessoal consignado,Consumo e habitação,222312.925,6592.61,1889.55
+2025-11-30,Outros,Crédito pessoal não consignado,Consumo e habitação,115486.846,14437.25,7334.131
+2025-11-30,Outros,Habitacional,Consumo e habitação,260359.644,5093.934,546.981
+2025-11-30,Outros,Home equity,Consumo e habitação,2611.123,63.829,9.48
+2025-11-30,Outros,Outros,Consumo e habitação,51613.734,8093.237,3991.82
+2025-11-30,Outros,Rural,Rural,204049.64,11756.431,6653.538
+2025-11-30,Outros,Veículos,Consumo e habitação,122698.473,10049.658,2694.797
+2025-11-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12287.696,1189.065,827.046
+2025-11-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,4014.802,385.546,384.921
+2025-11-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6741.925,5227.087,5174.57
+2025-11-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,74868.523,12.774,12.378
+2025-11-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4640.184,506.29,496.259
+2025-11-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,263017.956,6973.64,1221.885
+2025-11-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,38828.763,3465.905,1276.546
+2025-11-30,Servidor ou empregado público,Habitacional,Consumo e habitação,190183.416,1311.114,155.567
+2025-11-30,Servidor ou empregado público,Home equity,Consumo e habitação,3056.311,55.388,7.837
+2025-11-30,Servidor ou empregado público,Outros,Consumo e habitação,16636.687,2301.692,720.675
+2025-11-30,Servidor ou empregado público,Rural,Rural,19724.397,1082.425,632.507
+2025-11-30,Servidor ou empregado público,Veículos,Consumo e habitação,42514.047,1546.568,364.462
+2025-12-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11174.207,465.939,364.811
+2025-12-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2080.207,289.029,288.808
+2025-12-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3230.731,2508.957,2482.03
+2025-12-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,40688.806,5.932,5.614
+2025-12-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2791.772,341.095,336.55
+2025-12-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,159402.127,3594.165,790.447
+2025-12-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24324.419,1867.413,773.769
+2025-12-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25370.478,259.943,36.245
+2025-12-31,Aposentado/pensionista,Home equity,Consumo e habitação,1474.149,44.828,10.109
+2025-12-31,Aposentado/pensionista,Outros,Consumo e habitação,9380.137,1125.82,426.847
+2025-12-31,Aposentado/pensionista,Rural,Rural,12769.566,561.947,336.693
+2025-12-31,Aposentado/pensionista,Veículos,Consumo e habitação,19394.66,900.383,232.0
+2025-12-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5099.412,672.392,563.539
+2025-12-31,Autônomo,Cartão: rotativo,Consumo e habitação,1330.355,181.035,180.291
+2025-12-31,Autônomo,Cartão: saldo não migrado (legado),Legado,3978.089,3145.016,3107.509
+2025-12-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,38072.176,9.095,8.797
+2025-12-31,Autônomo,Cheque especial,Consumo e habitação,3017.407,503.767,497.197
+2025-12-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,14435.842,442.643,118.277
+2025-12-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,29959.2,2943.142,1250.965
+2025-12-31,Autônomo,Habitacional,Consumo e habitação,81265.322,1166.051,127.925
+2025-12-31,Autônomo,Home equity,Consumo e habitação,2729.352,80.62,12.594
+2025-12-31,Autônomo,Outros,Consumo e habitação,24960.761,3284.947,1644.921
+2025-12-31,Autônomo,Rural,Rural,158780.135,11920.096,7064.668
+2025-12-31,Autônomo,Veículos,Consumo e habitação,31832.44,1845.753,486.996
+2025-12-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18751.943,2443.005,2036.892
+2025-12-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4233.433,593.607,590.971
+2025-12-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,15095.341,11843.846,11708.43
+2025-12-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,127868.201,14.268,13.733
+2025-12-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,8352.696,1454.824,1427.364
+2025-12-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,74246.065,2734.649,933.48
+2025-12-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,88014.518,6413.37,2625.589
+2025-12-31,Empregado de empresa privada,Habitacional,Consumo e habitação,488120.4,4314.694,529.104
+2025-12-31,Empregado de empresa privada,Home equity,Consumo e habitação,5488.126,79.577,7.948
+2025-12-31,Empregado de empresa privada,Outros,Consumo e habitação,26102.399,4109.06,1500.933
+2025-12-31,Empregado de empresa privada,Rural,Rural,28860.276,1920.579,1167.917
+2025-12-31,Empregado de empresa privada,Veículos,Consumo e habitação,108295.133,4991.948,1258.63
+2025-12-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,109.749,12.029,10.055
+2025-12-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,23.145,3.917,3.906
+2025-12-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,69.562,55.651,55.149
+2025-12-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,649.517,0.081,0.081
+2025-12-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,36.704,6.812,6.698
+2025-12-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,521.995,17.728,5.359
+2025-12-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,401.841,34.869,14.907
+2025-12-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1706.32,16.589,1.655
+2025-12-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.463,0.07,0.044
+2025-12-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,129.951,18.531,7.346
+2025-12-31,Empregado de entidades sem fins lucrativos,Rural,Rural,292.011,4.605,2.885
+2025-12-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,423.779,21.74,5.885
+2025-12-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,8962.536,1110.929,935.224
+2025-12-31,Empresário,Cartão: rotativo,Consumo e habitação,2597.057,221.724,220.855
+2025-12-31,Empresário,Cartão: saldo não migrado (legado),Legado,7921.069,6067.312,5972.341
+2025-12-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,98793.337,8.356,7.965
+2025-12-31,Empresário,Cheque especial,Consumo e habitação,7063.485,1006.349,990.784
+2025-12-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15658.655,376.669,92.707
+2025-12-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,66904.51,5137.087,1849.995
+2025-12-31,Empresário,Habitacional,Consumo e habitação,234980.038,2584.912,280.373
+2025-12-31,Empresário,Home equity,Consumo e habitação,11425.154,338.21,41.608
+2025-12-31,Empresário,Outros,Consumo e habitação,60697.804,5158.322,2436.088
+2025-12-31,Empresário,Rural,Rural,258201.657,14290.451,8133.938
+2025-12-31,Empresário,Veículos,Consumo e habitação,62818.21,2876.573,727.717
+2025-12-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1913.137,316.699,265.841
+2025-12-31,MEI,Cartão: rotativo,Consumo e habitação,547.413,86.862,86.343
+2025-12-31,MEI,Cartão: saldo não migrado (legado),Legado,1931.639,1563.928,1546.539
+2025-12-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13687.039,3.508,3.409
+2025-12-31,MEI,Cheque especial,Consumo e habitação,675.478,143.5,140.732
+2025-12-31,MEI,Crédito pessoal consignado,Consumo e habitação,1912.421,73.968,20.38
+2025-12-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5380.716,737.953,353.995
+2025-12-31,MEI,Habitacional,Consumo e habitação,32493.245,447.901,45.567
+2025-12-31,MEI,Home equity,Consumo e habitação,388.989,12.585,1.019
+2025-12-31,MEI,Outros,Consumo e habitação,2693.567,454.845,177.628
+2025-12-31,MEI,Rural,Rural,1283.304,78.362,54.321
+2025-12-31,MEI,Veículos,Consumo e habitação,14210.0,807.514,205.249
+2025-12-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,42830.239,6186.107,5187.27
+2025-12-31,Outros,Cartão: rotativo,Consumo e habitação,9315.891,1795.864,1786.18
+2025-12-31,Outros,Cartão: saldo não migrado (legado),Legado,23557.078,19514.778,19381.04
+2025-12-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,153573.195,90.381,87.518
+2025-12-31,Outros,Cheque especial,Consumo e habitação,7921.969,1714.237,1692.766
+2025-12-31,Outros,Crédito pessoal consignado,Consumo e habitação,223537.429,7037.75,1927.237
+2025-12-31,Outros,Crédito pessoal não consignado,Consumo e habitação,115881.654,14596.965,7331.235
+2025-12-31,Outros,Habitacional,Consumo e habitação,264952.148,4575.004,494.436
+2025-12-31,Outros,Home equity,Consumo e habitação,2654.45,70.506,9.429
+2025-12-31,Outros,Outros,Consumo e habitação,52376.485,7926.558,3921.729
+2025-12-31,Outros,Rural,Rural,206045.141,11342.56,6347.828
+2025-12-31,Outros,Veículos,Consumo e habitação,125396.717,10431.387,2852.656
+2025-12-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11718.383,1079.856,806.93
+2025-12-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3594.132,389.081,387.943
+2025-12-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6829.06,5332.595,5276.479
+2025-12-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,78585.104,13.527,13.056
+2025-12-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4132.231,543.897,533.462
+2025-12-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,262088.587,7353.554,1322.497
+2025-12-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,37779.928,3534.205,1271.824
+2025-12-31,Servidor ou empregado público,Habitacional,Consumo e habitação,191357.525,1130.936,136.5
+2025-12-31,Servidor ou empregado público,Home equity,Consumo e habitação,3091.282,64.178,8.019
+2025-12-31,Servidor ou empregado público,Outros,Consumo e habitação,16520.848,2268.958,723.815
+2025-12-31,Servidor ou empregado público,Rural,Rural,19852.872,1083.066,625.169
+2025-12-31,Servidor ou empregado público,Veículos,Consumo e habitação,43043.77,1601.625,384.509
+2026-01-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11354.824,534.808,379.436
+2026-01-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2116.327,302.281,302.258
+2026-01-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3319.718,2578.822,2552.218
+2026-01-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,39263.885,6.035,5.748
+2026-01-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2941.051,351.33,346.179
+2026-01-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160536.277,3561.237,792.084
+2026-01-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24853.872,2005.645,816.109
+2026-01-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25361.715,302.637,39.972
+2026-01-31,Aposentado/pensionista,Home equity,Consumo e habitação,1489.256,47.497,9.651
+2026-01-31,Aposentado/pensionista,Outros,Consumo e habitação,9300.471,1149.479,457.09
+2026-01-31,Aposentado/pensionista,Rural,Rural,12919.448,661.844,386.799
+2026-01-31,Aposentado/pensionista,Veículos,Consumo e habitação,19532.247,926.562,241.034
+2026-01-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5303.313,709.174,597.063
+2026-01-31,Autônomo,Cartão: rotativo,Consumo e habitação,1368.621,219.4,219.278
+2026-01-31,Autônomo,Cartão: saldo não migrado (legado),Legado,4113.618,3226.895,3188.032
+2026-01-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,37401.41,9.253,8.988
+2026-01-31,Autônomo,Cheque especial,Consumo e habitação,3301.979,511.023,504.096
+2026-01-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,14652.695,455.897,119.674
+2026-01-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30610.573,3172.8,1358.208
+2026-01-31,Autônomo,Habitacional,Consumo e habitação,81834.795,1479.873,153.353
+2026-01-31,Autônomo,Home equity,Consumo e habitação,2747.66,86.908,11.381
+2026-01-31,Autônomo,Outros,Consumo e habitação,24934.047,3509.37,1854.184
+2026-01-31,Autônomo,Rural,Rural,160748.615,13566.171,8001.422
+2026-01-31,Autônomo,Veículos,Consumo e habitação,32138.694,1932.475,512.947
+2026-01-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,19400.299,2558.452,2147.413
+2026-01-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4357.095,714.418,714.149
+2026-01-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,15425.387,12106.843,11969.323
+2026-01-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,125798.056,14.775,14.267
+2026-01-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,9342.804,1500.247,1470.032
+2026-01-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,78396.819,3021.296,1000.823
+2026-01-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,89039.51,6844.976,2790.69
+2026-01-31,Empregado de empresa privada,Habitacional,Consumo e habitação,491211.843,5581.983,628.107
+2026-01-31,Empregado de empresa privada,Home equity,Consumo e habitação,5535.541,85.889,7.922
+2026-01-31,Empregado de empresa privada,Outros,Consumo e habitação,25814.191,4177.79,1754.295
+2026-01-31,Empregado de empresa privada,Rural,Rural,29248.727,2226.654,1346.108
+2026-01-31,Empregado de empresa privada,Veículos,Consumo e habitação,109965.893,5161.944,1309.776
+2026-01-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,113.488,12.695,10.596
+2026-01-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.464,4.293,4.293
+2026-01-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,70.952,56.174,55.551
+2026-01-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,638.956,0.093,0.093
+2026-01-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,40.823,7.057,6.923
+2026-01-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,540.635,18.658,5.743
+2026-01-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,411.19,38.264,15.887
+2026-01-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1727.318,21.268,2.666
+2026-01-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.192,0.062,0.039
+2026-01-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,129.992,18.075,8.587
+2026-01-31,Empregado de entidades sem fins lucrativos,Rural,Rural,295.164,6.089,3.381
+2026-01-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,431.274,21.104,5.982
+2026-01-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9379.503,1160.27,980.59
+2026-01-31,Empresário,Cartão: rotativo,Consumo e habitação,2683.107,261.889,261.755
+2026-01-31,Empresário,Cartão: saldo não migrado (legado),Legado,8235.772,6271.192,6171.714
+2026-01-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,96705.235,8.874,8.52
+2026-01-31,Empresário,Cheque especial,Consumo e habitação,7892.894,1024.492,1007.5
+2026-01-31,Empresário,Crédito pessoal consignado,Consumo e habitação,15828.738,385.646,93.844
+2026-01-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,67855.768,5643.106,2099.108
+2026-01-31,Empresário,Habitacional,Consumo e habitação,236593.663,3263.621,340.675
+2026-01-31,Empresário,Home equity,Consumo e habitação,11604.132,368.416,46.328
+2026-01-31,Empresário,Outros,Consumo e habitação,59520.796,5620.976,2818.811
+2026-01-31,Empresário,Rural,Rural,261250.095,16627.039,9404.803
+2026-01-31,Empresário,Veículos,Consumo e habitação,63112.964,2999.956,765.592
+2026-01-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1980.411,336.596,285.792
+2026-01-31,MEI,Cartão: rotativo,Consumo e habitação,558.516,111.814,111.728
+2026-01-31,MEI,Cartão: saldo não migrado (legado),Legado,1985.163,1599.133,1581.566
+2026-01-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13445.091,3.516,3.428
+2026-01-31,MEI,Cheque especial,Consumo e habitação,750.097,147.245,144.291
+2026-01-31,MEI,Crédito pessoal consignado,Consumo e habitação,1972.555,79.337,22.106
+2026-01-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5589.438,794.748,381.605
+2026-01-31,MEI,Habitacional,Consumo e habitação,32830.992,575.182,58.029
+2026-01-31,MEI,Home equity,Consumo e habitação,392.388,12.653,1.239
+2026-01-31,MEI,Outros,Consumo e habitação,2683.624,468.724,223.187
+2026-01-31,MEI,Rural,Rural,1299.302,86.27,58.829
+2026-01-31,MEI,Veículos,Consumo e habitação,14442.662,835.679,214.941
+2026-01-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,44092.712,6739.041,5706.412
+2026-01-31,Outros,Cartão: rotativo,Consumo e habitação,9085.74,2488.999,2488.581
+2026-01-31,Outros,Cartão: saldo não migrado (legado),Legado,24128.617,19898.198,19759.198
+2026-01-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,148409.232,93.23,90.488
+2026-01-31,Outros,Cheque especial,Consumo e habitação,8534.593,1769.778,1745.587
+2026-01-31,Outros,Crédito pessoal consignado,Consumo e habitação,228384.006,7508.311,1946.165
+2026-01-31,Outros,Crédito pessoal não consignado,Consumo e habitação,119094.527,15574.848,7803.853
+2026-01-31,Outros,Habitacional,Consumo e habitação,268584.422,5672.364,584.706
+2026-01-31,Outros,Home equity,Consumo e habitação,2697.69,78.781,10.408
+2026-01-31,Outros,Outros,Consumo e habitação,52510.542,8464.44,4717.002
+2026-01-31,Outros,Rural,Rural,208735.705,12878.546,7245.266
+2026-01-31,Outros,Veículos,Consumo e habitação,128281.962,10889.31,2995.736
+2026-01-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12045.666,1242.699,852.969
+2026-01-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3647.842,434.311,434.196
+2026-01-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,6966.568,5426.134,5366.392
+2026-01-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,78246.811,13.531,13.113
+2026-01-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4412.053,549.684,538.313
+2026-01-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,265402.868,7411.497,1365.495
+2026-01-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,39137.965,3778.844,1336.432
+2026-01-31,Servidor ou empregado público,Habitacional,Consumo e habitação,192177.214,1469.105,162.109
+2026-01-31,Servidor ou empregado público,Home equity,Consumo e habitação,3119.956,71.687,8.481
+2026-01-31,Servidor ou empregado público,Outros,Consumo e habitação,16381.329,2343.484,845.728
+2026-01-31,Servidor ou empregado público,Rural,Rural,20080.495,1267.128,746.387
+2026-01-31,Servidor ou empregado público,Veículos,Consumo e habitação,43708.788,1654.566,403.839
+2026-02-28,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11348.6,1209.217,414.505
+2026-02-28,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2209.552,320.677,320.535
+2026-02-28,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3381.097,2605.637,2577.404
+2026-02-28,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,37732.935,352.329,208.992
+2026-02-28,Aposentado/pensionista,Cheque especial,Consumo e habitação,2901.873,354.085,348.428
+2026-02-28,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160981.94,3714.704,835.368
+2026-02-28,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,25120.381,2141.799,851.942
+2026-02-28,Aposentado/pensionista,Habitacional,Consumo e habitação,25340.373,300.273,41.644
+2026-02-28,Aposentado/pensionista,Home equity,Consumo e habitação,1497.869,48.693,9.698
+2026-02-28,Aposentado/pensionista,Outros,Consumo e habitação,9226.5,1127.686,452.148
+2026-02-28,Aposentado/pensionista,Rural,Rural,12997.336,716.689,413.69
+2026-02-28,Aposentado/pensionista,Veículos,Consumo e habitação,19606.723,960.121,252.004
+2026-02-28,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5453.669,741.025,606.649
+2026-02-28,Autônomo,Cartão: rotativo,Consumo e habitação,1503.026,232.132,231.989
+2026-02-28,Autônomo,Cartão: saldo não migrado (legado),Legado,4242.162,3283.263,3241.413
+2026-02-28,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,36153.19,19.639,14.066
+2026-02-28,Autônomo,Cheque especial,Consumo e habitação,3370.759,512.437,504.968
+2026-02-28,Autônomo,Crédito pessoal consignado,Consumo e habitação,14887.768,499.261,128.744
+2026-02-28,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30957.82,3366.269,1421.216
+2026-02-28,Autônomo,Habitacional,Consumo e habitação,82422.682,1556.857,164.173
+2026-02-28,Autônomo,Home equity,Consumo e habitação,2774.074,82.738,18.033
+2026-02-28,Autônomo,Outros,Consumo e habitação,24879.154,3568.3,1878.51
+2026-02-28,Autônomo,Rural,Rural,162554.263,14240.461,8339.193
+2026-02-28,Autônomo,Veículos,Consumo e habitação,32392.662,1993.686,538.33
+2026-02-28,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,20044.287,2647.661,2165.284
+2026-02-28,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4723.437,745.922,745.597
+2026-02-28,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,15743.563,12225.425,12080.249
+2026-02-28,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,121710.815,46.291,28.507
+2026-02-28,Empregado de empresa privada,Cheque especial,Consumo e habitação,9551.018,1505.219,1472.632
+2026-02-28,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,81379.391,3423.352,1081.664
+2026-02-28,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,89503.19,7229.137,2935.058
+2026-02-28,Empregado de empresa privada,Habitacional,Consumo e habitação,494916.908,5737.664,621.664
+2026-02-28,Empregado de empresa privada,Home equity,Consumo e habitação,5620.034,82.129,8.895
+2026-02-28,Empregado de empresa privada,Outros,Consumo e habitação,25683.79,4168.607,1759.021
+2026-02-28,Empregado de empresa privada,Rural,Rural,29613.776,2350.317,1402.356
+2026-02-28,Empregado de empresa privada,Veículos,Consumo e habitação,111238.236,5343.277,1373.201
+2026-02-28,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,116.593,13.443,10.718
+2026-02-28,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,27.222,4.496,4.496
+2026-02-28,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,72.449,56.217,55.589
+2026-02-28,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,616.357,0.422,0.258
+2026-02-28,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,41.788,7.116,6.961
+2026-02-28,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,553.436,21.568,6.31
+2026-02-28,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,415.212,41.05,16.87
+2026-02-28,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1742.571,22.858,2.524
+2026-02-28,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,25.722,0.062,0.042
+2026-02-28,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,130.617,17.678,8.628
+2026-02-28,Empregado de entidades sem fins lucrativos,Rural,Rural,299.991,5.967,3.405
+2026-02-28,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,436.796,21.576,6.092
+2026-02-28,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9654.665,1194.29,991.415
+2026-02-28,Empresário,Cartão: rotativo,Consumo e habitação,3088.264,275.923,275.72
+2026-02-28,Empresário,Cartão: saldo não migrado (legado),Legado,8522.918,6406.329,6302.311
+2026-02-28,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,92723.826,18.685,13.108
+2026-02-28,Empresário,Cheque especial,Consumo e habitação,8163.011,1033.277,1015.318
+2026-02-28,Empresário,Crédito pessoal consignado,Consumo e habitação,16045.814,423.462,102.741
+2026-02-28,Empresário,Crédito pessoal não consignado,Consumo e habitação,68311.502,5911.259,2189.814
+2026-02-28,Empresário,Habitacional,Consumo e habitação,238311.336,3254.517,341.388
+2026-02-28,Empresário,Home equity,Consumo e habitação,11775.304,364.302,46.216
+2026-02-28,Empresário,Outros,Consumo e habitação,59144.743,5729.814,2819.475
+2026-02-28,Empresário,Rural,Rural,264824.213,17473.511,9858.868
+2026-02-28,Empresário,Veículos,Consumo e habitação,63389.779,3091.957,800.434
+2026-02-28,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,2033.277,343.092,288.475
+2026-02-28,MEI,Cartão: rotativo,Consumo e habitação,612.164,116.368,116.287
+2026-02-28,MEI,Cartão: saldo não migrado (legado),Legado,2042.588,1631.511,1613.268
+2026-02-28,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13106.388,5.037,4.164
+2026-02-28,MEI,Cheque especial,Consumo e habitação,771.21,145.812,142.449
+2026-02-28,MEI,Crédito pessoal consignado,Consumo e habitação,2033.017,87.97,24.178
+2026-02-28,MEI,Crédito pessoal não consignado,Consumo e habitação,5731.095,840.605,401.849
+2026-02-28,MEI,Habitacional,Consumo e habitação,33161.713,600.07,62.198
+2026-02-28,MEI,Home equity,Consumo e habitação,395.72,12.254,1.251
+2026-02-28,MEI,Outros,Consumo e habitação,2679.005,468.486,219.916
+2026-02-28,MEI,Rural,Rural,1319.872,94.242,64.101
+2026-02-28,MEI,Veículos,Consumo e habitação,14609.763,864.21,225.509
+2026-02-28,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,45503.595,7151.951,5838.621
+2026-02-28,Outros,Cartão: rotativo,Consumo e habitação,9708.207,2612.005,2611.297
+2026-02-28,Outros,Cartão: saldo não migrado (legado),Legado,24742.533,20125.339,19982.596
+2026-02-28,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,145075.864,224.378,157.012
+2026-02-28,Outros,Cheque especial,Consumo e habitação,8400.691,1774.799,1748.515
+2026-02-28,Outros,Crédito pessoal consignado,Consumo e habitação,232355.45,8451.271,2163.75
+2026-02-28,Outros,Crédito pessoal não consignado,Consumo e habitação,121054.175,16477.687,8239.074
+2026-02-28,Outros,Habitacional,Consumo e habitação,272844.643,5963.484,602.922
+2026-02-28,Outros,Home equity,Consumo e habitação,2728.256,79.301,9.973
+2026-02-28,Outros,Outros,Consumo e habitação,52756.807,8767.14,4819.468
+2026-02-28,Outros,Rural,Rural,210198.481,13594.846,7671.124
+2026-02-28,Outros,Veículos,Consumo e habitação,130572.175,11365.075,3160.696
+2026-02-28,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12280.974,2444.457,922.205
+2026-02-28,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3818.767,452.349,451.974
+2026-02-28,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7064.793,5431.218,5368.683
+2026-02-28,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,75185.842,557.544,379.176
+2026-02-28,Servidor ou empregado público,Cheque especial,Consumo e habitação,4508.087,555.237,543.116
+2026-02-28,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,266692.485,7590.071,1414.847
+2026-02-28,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,39825.517,4013.947,1400.678
+2026-02-28,Servidor ou empregado público,Habitacional,Consumo e habitação,193211.197,1447.059,169.009
+2026-02-28,Servidor ou empregado público,Home equity,Consumo e habitação,3147.636,61.079,8.649
+2026-02-28,Servidor ou empregado público,Outros,Consumo e habitação,16259.76,2349.476,863.865
+2026-02-28,Servidor ou empregado público,Rural,Rural,20322.713,1337.123,786.363
+2026-02-28,Servidor ou empregado público,Veículos,Consumo e habitação,44118.046,1696.47,421.305
+2026-03-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11387.126,1348.952,446.462
+2026-03-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2145.105,303.948,303.773
+2026-03-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3363.512,2523.696,2505.128
+2026-03-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,38947.128,449.961,295.849
+2026-03-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,3042.485,367.296,361.027
+2026-03-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,161141.26,3581.357,826.449
+2026-03-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,25197.942,2099.636,848.741
+2026-03-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25311.537,289.374,39.21
+2026-03-31,Aposentado/pensionista,Home equity,Consumo e habitação,1497.357,47.865,9.677
+2026-03-31,Aposentado/pensionista,Outros,Consumo e habitação,9167.886,1086.127,439.334
+2026-03-31,Aposentado/pensionista,Rural,Rural,13043.752,726.943,409.138
+2026-03-31,Aposentado/pensionista,Veículos,Consumo e habitação,19715.497,986.907,263.491
+2026-03-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5514.718,751.639,612.274
+2026-03-31,Autônomo,Cartão: rotativo,Consumo e habitação,1355.104,229.16,229.044
+2026-03-31,Autônomo,Cartão: saldo não migrado (legado),Legado,4263.517,3226.934,3198.118
+2026-03-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,37386.611,25.389,19.664
+2026-03-31,Autônomo,Cheque especial,Consumo e habitação,3373.28,522.409,514.126
+2026-03-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,15088.337,501.034,135.673
+2026-03-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30907.29,3353.675,1427.306
+2026-03-31,Autônomo,Habitacional,Consumo e habitação,83200.381,1561.017,161.491
+2026-03-31,Autônomo,Home equity,Consumo e habitação,2796.367,85.596,17.661
+2026-03-31,Autônomo,Outros,Consumo e habitação,25053.646,3428.197,1781.663
+2026-03-31,Autônomo,Rural,Rural,162185.752,13032.274,7370.511
+2026-03-31,Autônomo,Veículos,Consumo e habitação,32608.975,2028.039,556.847
+2026-03-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,20309.619,2656.897,2168.831
+2026-03-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4453.309,730.085,729.732
+2026-03-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,15687.131,11764.015,11662.875
+2026-03-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,125872.962,65.298,45.712
+2026-03-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,9832.81,1542.431,1505.62
+2026-03-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,84703.878,3666.85,1212.826
+2026-03-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,88874.275,7046.054,2939.442
+2026-03-31,Empregado de empresa privada,Habitacional,Consumo e habitação,499584.885,5763.367,593.366
+2026-03-31,Empregado de empresa privada,Home equity,Consumo e habitação,5706.893,79.148,8.817
+2026-03-31,Empregado de empresa privada,Outros,Consumo e habitação,25436.313,4006.081,1674.191
+2026-03-31,Empregado de empresa privada,Rural,Rural,29715.172,2213.463,1263.784
+2026-03-31,Empregado de empresa privada,Veículos,Consumo e habitação,112658.344,5473.854,1437.75
+2026-03-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,117.618,13.82,10.672
+2026-03-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.035,4.318,4.314
+2026-03-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,73.236,53.998,53.547
+2026-03-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,635.438,0.632,0.427
+2026-03-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,42.607,7.189,7.024
+2026-03-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,566.425,22.785,6.849
+2026-03-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,425.612,40.667,17.011
+2026-03-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1761.858,22.691,2.42
+2026-03-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.33,0.402,0.038
+2026-03-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,127.538,17.709,8.289
+2026-03-31,Empregado de entidades sem fins lucrativos,Rural,Rural,312.961,4.855,2.494
+2026-03-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,440.389,21.67,6.236
+2026-03-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9713.098,1214.258,1007.649
+2026-03-31,Empresário,Cartão: rotativo,Consumo e habitação,2624.752,274.4,274.218
+2026-03-31,Empresário,Cartão: saldo não migrado (legado),Legado,8570.929,6321.657,6249.893
+2026-03-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,96135.902,23.249,17.779
+2026-03-31,Empresário,Cheque especial,Consumo e habitação,8220.949,1059.022,1039.447
+2026-03-31,Empresário,Crédito pessoal consignado,Consumo e habitação,16242.257,419.041,104.345
+2026-03-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,68026.564,5705.629,2235.292
+2026-03-31,Empresário,Habitacional,Consumo e habitação,240224.772,3194.627,336.797
+2026-03-31,Empresário,Home equity,Consumo e habitação,11929.649,339.673,42.235
+2026-03-31,Empresário,Outros,Consumo e habitação,59779.101,5651.711,2770.913
+2026-03-31,Empresário,Rural,Rural,266253.078,16467.049,9139.355
+2026-03-31,Empresário,Veículos,Consumo e habitação,63700.19,3125.461,823.488
+2026-03-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,2052.176,346.27,291.191
+2026-03-31,MEI,Cartão: rotativo,Consumo e habitação,568.488,116.597,116.504
+2026-03-31,MEI,Cartão: saldo não migrado (legado),Legado,2051.123,1606.225,1593.138
+2026-03-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13525.11,5.829,4.906
+2026-03-31,MEI,Cheque especial,Consumo e habitação,777.505,149.526,145.803
+2026-03-31,MEI,Crédito pessoal consignado,Consumo e habitação,2092.672,91.629,25.891
+2026-03-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5763.919,829.831,409.575
+2026-03-31,MEI,Habitacional,Consumo e habitação,33579.968,616.577,61.937
+2026-03-31,MEI,Home equity,Consumo e habitação,404.817,12.191,1.39
+2026-03-31,MEI,Outros,Consumo e habitação,2674.832,463.956,212.45
+2026-03-31,MEI,Rural,Rural,1335.011,92.757,57.288
+2026-03-31,MEI,Veículos,Consumo e habitação,14780.085,891.875,236.729
+2026-03-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,46607.232,7311.454,5936.308
+2026-03-31,Outros,Cartão: rotativo,Consumo e habitação,9377.394,2586.643,2585.985
+2026-03-31,Outros,Cartão: saldo não migrado (legado),Legado,24962.255,19601.592,19503.999
+2026-03-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,149786.76,291.185,221.203
+2026-03-31,Outros,Cheque especial,Consumo e habitação,8605.344,1820.291,1791.319
+2026-03-31,Outros,Crédito pessoal consignado,Consumo e habitação,235764.34,8724.982,2372.172
+2026-03-31,Outros,Crédito pessoal não consignado,Consumo e habitação,121600.964,16761.571,8540.202
+2026-03-31,Outros,Habitacional,Consumo e habitação,278203.397,6007.032,591.26
+2026-03-31,Outros,Home equity,Consumo e habitação,2761.017,73.216,10.506
+2026-03-31,Outros,Outros,Consumo e habitação,53182.848,8654.094,4683.176
+2026-03-31,Outros,Rural,Rural,210731.664,12485.113,6835.157
+2026-03-31,Outros,Veículos,Consumo e habitação,132695.105,11783.527,3334.234
+2026-03-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12490.072,2663.427,965.519
+2026-03-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3677.543,443.36,442.909
+2026-03-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7040.584,5161.365,5118.571
+2026-03-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,76925.48,776.815,532.578
+2026-03-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4719.201,569.316,555.779
+2026-03-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,268209.067,7732.831,1496.884
+2026-03-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40144.715,4032.689,1420.945
+2026-03-31,Servidor ou empregado público,Habitacional,Consumo e habitação,194545.257,1431.058,156.936
+2026-03-31,Servidor ou empregado público,Home equity,Consumo e habitação,3177.794,58.408,8.262
+2026-03-31,Servidor ou empregado público,Outros,Consumo e habitação,16005.721,2164.699,794.243
+2026-03-31,Servidor ou empregado público,Rural,Rural,20416.357,1274.393,728.763
+2026-03-31,Servidor ou empregado público,Veículos,Consumo e habitação,44559.543,1716.201,434.687
+2026-04-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11442.401,1421.339,592.985
+2026-04-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2077.183,290.958,290.769
+2026-04-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3478.469,2592.126,2572.902
+2026-04-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,38788.164,450.07,304.446
+2026-04-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,3088.43,360.465,356.437
+2026-04-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160802.136,3555.724,867.934
+2026-04-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,25327.769,2200.55,879.718
+2026-04-30,Aposentado/pensionista,Habitacional,Consumo e habitação,25224.397,304.791,40.382
+2026-04-30,Aposentado/pensionista,Home equity,Consumo e habitação,1496.74,44.767,9.171
+2026-04-30,Aposentado/pensionista,Outros,Consumo e habitação,9024.828,1050.377,405.266
+2026-04-30,Aposentado/pensionista,Rural,Rural,13038.348,760.197,430.898
+2026-04-30,Aposentado/pensionista,Veículos,Consumo e habitação,19772.862,1009.594,272.401
+2026-04-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5518.563,874.635,734.12
+2026-04-30,Autônomo,Cartão: rotativo,Consumo e habitação,1389.934,231.219,231.123
+2026-04-30,Autônomo,Cartão: saldo não migrado (legado),Legado,4432.432,3376.034,3343.323
+2026-04-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,37390.388,25.561,20.046
+2026-04-30,Autônomo,Cheque especial,Consumo e habitação,3324.756,519.514,514.111
+2026-04-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,15203.391,522.654,144.272
+2026-04-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30936.685,3464.407,1457.798
+2026-04-30,Autônomo,Habitacional,Consumo e habitação,83999.143,1644.771,164.771
+2026-04-30,Autônomo,Home equity,Consumo e habitação,2835.197,84.241,17.691
+2026-04-30,Autônomo,Outros,Consumo e habitação,24881.116,3366.895,1740.319
+2026-04-30,Autônomo,Rural,Rural,161583.454,13488.749,7573.431
+2026-04-30,Autônomo,Veículos,Consumo e habitação,32796.816,2059.955,576.767
+2026-04-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,20380.105,3242.004,2745.365
+2026-04-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4555.814,737.991,737.709
+2026-04-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,16271.641,12104.448,11994.397
+2026-04-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,126034.02,65.585,46.752
+2026-04-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,9683.806,1467.571,1445.142
+2026-04-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,87506.182,4027.531,1316.917
+2026-04-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,88583.191,7348.082,3009.339
+2026-04-30,Empregado de empresa privada,Habitacional,Consumo e habitação,503753.716,6127.974,615.452
+2026-04-30,Empregado de empresa privada,Home equity,Consumo e habitação,5780.411,82.938,8.98
+2026-04-30,Empregado de empresa privada,Outros,Consumo e habitação,25041.743,3794.926,1574.69
+2026-04-30,Empregado de empresa privada,Rural,Rural,29790.503,2304.537,1308.329
+2026-04-30,Empregado de empresa privada,Veículos,Consumo e habitação,113729.551,5634.833,1497.971
+2026-04-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,118.291,17.313,14.084
+2026-04-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.139,4.258,4.256
+2026-04-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,76.691,55.676,55.177
+2026-04-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,636.899,0.633,0.436
+2026-04-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,42.765,6.833,6.755
+2026-04-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,576.996,24.141,7.449
+2026-04-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,426.591,42.427,17.636
+2026-04-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1774.757,21.859,2.04
+2026-04-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.969,0.059,0.029
+2026-04-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,123.937,18.015,7.889
+2026-04-30,Empregado de entidades sem fins lucrativos,Rural,Rural,306.295,5.064,2.714
+2026-04-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,445.923,22.811,6.446
+2026-04-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9704.392,1380.455,1169.035
+2026-04-30,Empresário,Cartão: rotativo,Consumo e habitação,2724.886,278.619,278.45
+2026-04-30,Empresário,Cartão: saldo não migrado (legado),Legado,8925.596,6643.905,6561.382
+2026-04-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,96024.373,23.592,18.223
+2026-04-30,Empresário,Cheque especial,Consumo e habitação,8265.322,1076.431,1061.777
+2026-04-30,Empresário,Crédito pessoal consignado,Consumo e habitação,16352.038,434.577,112.676
+2026-04-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,68186.156,5882.212,2248.339
+2026-04-30,Empresário,Habitacional,Consumo e habitação,242185.921,3329.684,357.599
+2026-04-30,Empresário,Home equity,Consumo e habitação,12097.983,345.067,40.453
+2026-04-30,Empresário,Outros,Consumo e habitação,58753.988,5528.434,2667.671
+2026-04-30,Empresário,Rural,Rural,265350.897,17006.512,9332.453
+2026-04-30,Empresário,Veículos,Consumo e habitação,63979.466,3179.847,852.724
+2026-04-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,2073.635,381.018,324.64
+2026-04-30,MEI,Cartão: rotativo,Consumo e habitação,584.535,118.45,118.383
+2026-04-30,MEI,Cartão: saldo não migrado (legado),Legado,2126.276,1670.138,1656.032
+2026-04-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13581.183,5.859,4.972
+2026-04-30,MEI,Cheque especial,Consumo e habitação,779.631,145.615,143.347
+2026-04-30,MEI,Crédito pessoal consignado,Consumo e habitação,2137.584,97.011,27.665
+2026-04-30,MEI,Crédito pessoal não consignado,Consumo e habitação,5825.662,873.86,429.416
+2026-04-30,MEI,Habitacional,Consumo e habitação,34058.498,659.307,60.779
+2026-04-30,MEI,Home equity,Consumo e habitação,409.47,11.966,1.303
+2026-04-30,MEI,Outros,Consumo e habitação,2646.161,449.281,216.047
+2026-04-30,MEI,Rural,Rural,1350.198,98.691,61.821
+2026-04-30,MEI,Veículos,Consumo e habitação,14895.441,913.842,246.935
+2026-04-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,47245.712,8853.217,7441.904
+2026-04-30,Outros,Cartão: rotativo,Consumo e habitação,9573.108,2614.473,2613.821
+2026-04-30,Outros,Cartão: saldo não migrado (legado),Legado,26080.651,20244.758,20142.487
+2026-04-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,150959.87,294.361,226.618
+2026-04-30,Outros,Cheque especial,Consumo e habitação,8466.146,1686.513,1669.714
+2026-04-30,Outros,Crédito pessoal consignado,Consumo e habitação,237747.263,9274.486,2564.512
+2026-04-30,Outros,Crédito pessoal não consignado,Consumo e habitação,122509.065,17693.988,9017.913
+2026-04-30,Outros,Habitacional,Consumo e habitação,282934.025,6287.367,580.67
+2026-04-30,Outros,Home equity,Consumo e habitação,2787.503,69.471,9.923
+2026-04-30,Outros,Outros,Consumo e habitação,52927.624,8470.048,4734.803
+2026-04-30,Outros,Rural,Rural,210596.075,12974.495,7062.224
+2026-04-30,Outros,Veículos,Consumo e habitação,133871.112,12196.889,3487.513
+2026-04-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12461.749,2994.612,1454.135
+2026-04-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3706.26,428.312,427.567
+2026-04-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7355.66,5288.506,5242.506
+2026-04-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,76581.95,777.008,547.726
+2026-04-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4621.2,540.436,532.082
+2026-04-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,269662.554,7547.605,1575.146
+2026-04-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40688.136,4323.241,1513.596
+2026-04-30,Servidor ou empregado público,Habitacional,Consumo e habitação,195544.632,1493.083,166.78
+2026-04-30,Servidor ou empregado público,Home equity,Consumo e habitação,3204.425,61.477,7.814
+2026-04-30,Servidor ou empregado público,Outros,Consumo e habitação,15764.956,2082.146,724.432
+2026-04-30,Servidor ou empregado público,Rural,Rural,20496.492,1395.857,804.656
+2026-04-30,Servidor ou empregado público,Veículos,Consumo e habitação,44961.349,1753.382,451.61
+2026-05-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11369.999,1463.825,627.125
+2026-05-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,1925.58,302.662,302.401
+2026-05-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3510.533,2691.22,2671.807
+2026-05-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,38902.021,450.235,312.69
+2026-05-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2714.321,357.002,353.114
+2026-05-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160578.914,3560.051,878.793
+2026-05-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,25109.516,2234.271,893.856
+2026-05-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25185.077,313.9,42.175
+2026-05-31,Aposentado/pensionista,Home equity,Consumo e habitação,1504.326,46.338,9.81
+2026-05-31,Aposentado/pensionista,Outros,Consumo e habitação,9002.448,1088.825,424.307
+2026-05-31,Aposentado/pensionista,Rural,Rural,12921.141,786.987,444.964
+2026-05-31,Aposentado/pensionista,Veículos,Consumo e habitação,19846.522,1032.404,283.829
+2026-05-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5524.245,867.789,727.721
+2026-05-31,Autônomo,Cartão: rotativo,Consumo e habitação,1324.651,251.613,251.48
+2026-05-31,Autônomo,Cartão: saldo não migrado (legado),Legado,4533.951,3522.669,3488.279
+2026-05-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,37827.246,26.112,20.751
+2026-05-31,Autônomo,Cheque especial,Consumo e habitação,3288.531,517.094,511.543
+2026-05-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,15328.55,553.02,154.508
+2026-05-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,31090.717,3495.05,1472.375
+2026-05-31,Autônomo,Habitacional,Consumo e habitação,85076.459,1697.266,157.735
+2026-05-31,Autônomo,Home equity,Consumo e habitação,2882.232,84.149,10.746
+2026-05-31,Autônomo,Outros,Consumo e habitação,25098.466,3372.517,1766.139
+2026-05-31,Autônomo,Rural,Rural,159521.971,13525.368,7505.735
+2026-05-31,Autônomo,Veículos,Consumo e habitação,32938.883,2112.176,601.102
+2026-05-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,20415.18,3224.738,2733.087
+2026-05-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4405.853,787.338,786.836
+2026-05-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,16723.227,12722.824,12609.322
+2026-05-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,127400.819,66.153,47.989
+2026-05-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,9455.169,1443.671,1422.818
+2026-05-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,89861.057,4437.546,1451.687
+2026-05-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,88312.117,7580.065,3061.278
+2026-05-31,Empregado de empresa privada,Habitacional,Consumo e habitação,508964.822,6281.091,607.15
+2026-05-31,Empregado de empresa privada,Home equity,Consumo e habitação,5854.63,90.544,9.106
+2026-05-31,Empregado de empresa privada,Outros,Consumo e habitação,25125.828,3905.57,1619.536
+2026-05-31,Empregado de empresa privada,Rural,Rural,29620.562,2275.466,1293.55
+2026-05-31,Empregado de empresa privada,Veículos,Consumo e habitação,114307.229,5850.371,1571.781
+2026-05-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,117.683,17.307,14.123
+2026-05-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,24.577,4.542,4.54
+2026-05-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,79.35,60.454,60.051
+2026-05-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,645.593,0.632,0.444
+2026-05-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,41.777,6.605,6.551
+2026-05-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,585.15,25.721,7.874
+2026-05-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,424.743,42.471,17.661
+2026-05-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1802.395,24.415,1.86
+2026-05-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,26.769,0.333,0.037
+2026-05-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,124.229,18.435,8.133
+2026-05-31,Empregado de entidades sem fins lucrativos,Rural,Rural,298.091,5.194,2.798
+2026-05-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,447.789,23.349,6.626
+2026-05-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9813.479,1391.095,1180.286
+2026-05-31,Empresário,Cartão: rotativo,Consumo e habitação,2606.998,307.09,306.869
+2026-05-31,Empresário,Cartão: saldo não migrado (legado),Legado,9220.689,6976.922,6894.665
+2026-05-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,97241.802,23.926,18.872
+2026-05-31,Empresário,Cheque especial,Consumo e habitação,8178.766,1084.92,1071.362
+2026-05-31,Empresário,Crédito pessoal consignado,Consumo e habitação,16469.451,454.29,119.585
+2026-05-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,68218.273,6118.322,2337.839
+2026-05-31,Empresário,Habitacional,Consumo e habitação,244435.625,3503.965,362.043
+2026-05-31,Empresário,Home equity,Consumo e habitação,12362.965,371.259,41.472
+2026-05-31,Empresário,Outros,Consumo e habitação,59622.807,5631.874,2731.617
+2026-05-31,Empresário,Rural,Rural,262906.976,17171.932,9376.601
+2026-05-31,Empresário,Veículos,Consumo e habitação,64236.204,3271.96,888.85
+2026-05-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,2080.526,375.455,319.743
+2026-05-31,MEI,Cartão: rotativo,Consumo e habitação,572.752,125.275,125.132
+2026-05-31,MEI,Cartão: saldo não migrado (legado),Legado,2186.203,1742.194,1727.398
+2026-05-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13828.896,5.819,4.956
+2026-05-31,MEI,Cheque especial,Consumo e habitação,772.717,142.082,139.77
+2026-05-31,MEI,Crédito pessoal consignado,Consumo e habitação,2181.783,104.377,30.299
+2026-05-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5900.188,906.86,438.247
+2026-05-31,MEI,Habitacional,Consumo e habitação,34673.846,696.31,60.967
+2026-05-31,MEI,Home equity,Consumo e habitação,416.942,11.781,1.31
+2026-05-31,MEI,Outros,Consumo e habitação,2662.328,469.173,224.013
+2026-05-31,MEI,Rural,Rural,1352.216,101.498,62.747
+2026-05-31,MEI,Veículos,Consumo e habitação,14979.795,941.446,258.799
+2026-05-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,47196.785,8814.12,7395.983
+2026-05-31,Outros,Cartão: rotativo,Consumo e habitação,9330.709,2776.839,2775.827
+2026-05-31,Outros,Cartão: saldo não migrado (legado),Legado,26799.091,21480.901,21374.565
+2026-05-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,154218.926,298.148,232.716
+2026-05-31,Outros,Cheque especial,Consumo e habitação,8313.062,1653.985,1637.669
+2026-05-31,Outros,Crédito pessoal consignado,Consumo e habitação,239896.005,10077.258,2858.593
+2026-05-31,Outros,Crédito pessoal não consignado,Consumo e habitação,123128.734,18178.32,9238.377
+2026-05-31,Outros,Habitacional,Consumo e habitação,288828.285,6504.862,573.947
+2026-05-31,Outros,Home equity,Consumo e habitação,2839.811,75.334,10.432
+2026-05-31,Outros,Outros,Consumo e habitação,53694.805,8765.887,4893.75
+2026-05-31,Outros,Rural,Rural,207660.465,13160.484,7163.524
+2026-05-31,Outros,Veículos,Consumo e habitação,134349.209,12762.266,3682.969
+2026-05-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,12431.108,3099.674,1512.961
+2026-05-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3473.103,471.332,470.238
+2026-05-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7503.761,5595.399,5548.97
+2026-05-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,76516.592,777.723,562.813
+2026-05-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4331.248,537.532,529.672
+2026-05-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,271232.44,7661.609,1562.701
+2026-05-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40847.708,4476.339,1548.348
+2026-05-31,Servidor ou empregado público,Habitacional,Consumo e habitação,196805.868,1558.202,163.323
+2026-05-31,Servidor ou empregado público,Home equity,Consumo e habitação,3245.815,61.607,7.699
+2026-05-31,Servidor ou empregado público,Outros,Consumo e habitação,15812.209,2167.809,746.309
+2026-05-31,Servidor ou empregado público,Rural,Rural,20382.398,1426.676,831.421
+2026-05-31,Servidor ou empregado público,Veículos,Consumo e habitação,45257.849,1810.326,471.509
+2026-06-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10947.335,1400.615,582.216
+2026-06-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,1923.06,290.377,290.118
+2026-06-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3428.03,2635.477,2614.599
+2026-06-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,38857.114,450.066,320.277
+2026-06-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2734.323,353.614,349.836
+2026-06-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,160085.692,3482.523,857.215
+2026-06-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24682.776,2122.609,815.43
+2026-06-30,Aposentado/pensionista,Habitacional,Consumo e habitação,25118.468,284.162,42.289
+2026-06-30,Aposentado/pensionista,Home equity,Consumo e habitação,1502.287,39.707,8.822
+2026-06-30,Aposentado/pensionista,Outros,Consumo e habitação,8906.363,993.464,400.269
+2026-06-30,Aposentado/pensionista,Rural,Rural,12797.416,766.918,431.867
+2026-06-30,Aposentado/pensionista,Veículos,Consumo e habitação,19553.816,1012.796,274.499
+2026-06-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5304.412,731.518,597.29
+2026-06-30,Autônomo,Cartão: rotativo,Consumo e habitação,1373.88,238.563,238.437
+2026-06-30,Autônomo,Cartão: saldo não migrado (legado),Legado,4485.402,3472.942,3435.129
+2026-06-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,37858.258,26.339,21.077
+2026-06-30,Autônomo,Cheque especial,Consumo e habitação,3382.407,524.923,519.393
+2026-06-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,15492.5,559.84,158.516
+2026-06-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30732.883,3382.112,1333.557
+2026-06-30,Autônomo,Habitacional,Consumo e habitação,86177.909,1478.476,142.029
+2026-06-30,Autônomo,Home equity,Consumo e habitação,2923.482,75.656,10.211
+2026-06-30,Autônomo,Outros,Consumo e habitação,24574.505,3243.427,1736.546
+2026-06-30,Autônomo,Rural,Rural,157822.22,13018.254,7062.333
+2026-06-30,Autônomo,Veículos,Consumo e habitação,32513.367,2074.5,580.798
+2026-06-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,19535.473,2697.816,2227.33
+2026-06-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4474.0,755.934,755.524
+2026-06-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,16512.984,12524.819,12399.906
+2026-06-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,128030.064,66.227,48.801
+2026-06-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,9608.163,1461.719,1439.152
+2026-06-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,92284.922,4718.437,1481.344
+2026-06-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,86641.635,6970.81,2542.878
+2026-06-30,Empregado de empresa privada,Habitacional,Consumo e habitação,514631.016,5444.963,544.855
+2026-06-30,Empregado de empresa privada,Home equity,Consumo e habitação,5927.893,87.657,8.742
+2026-06-30,Empregado de empresa privada,Outros,Consumo e habitação,25125.543,3643.458,1565.339
+2026-06-30,Empregado de empresa privada,Rural,Rural,29503.851,2192.197,1216.201
+2026-06-30,Empregado de empresa privada,Veículos,Consumo e habitação,112489.745,5829.744,1541.466
+2026-06-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,112.394,14.45,11.48
+2026-06-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.216,4.332,4.331
+2026-06-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,78.305,60.299,59.862
+2026-06-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,645.912,0.628,0.448
+2026-06-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,42.378,6.551,6.501
+2026-06-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,594.283,27.179,7.981
+2026-06-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,416.724,38.422,14.77
+2026-06-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1830.939,19.435,1.986
+2026-06-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,28.051,0.082,0.032
+2026-06-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,123.469,18.277,9.175
+2026-06-30,Empregado de entidades sem fins lucrativos,Rural,Rural,293.128,5.259,3.0
+2026-06-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,439.697,23.043,6.484
+2026-06-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9531.604,1217.065,1015.96
+2026-06-30,Empresário,Cartão: rotativo,Consumo e habitação,2751.246,288.322,288.126
+2026-06-30,Empresário,Cartão: saldo não migrado (legado),Legado,9281.606,6992.999,6900.799
+2026-06-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,96957.029,24.157,19.273
+2026-06-30,Empresário,Cheque especial,Consumo e habitação,8396.693,1113.259,1098.352
+2026-06-30,Empresário,Crédito pessoal consignado,Consumo e habitação,16620.466,458.234,121.973
+2026-06-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,67479.784,5965.328,2178.188
+2026-06-30,Empresário,Habitacional,Consumo e habitação,246845.246,3142.352,328.135
+2026-06-30,Empresário,Home equity,Consumo e habitação,12524.19,363.03,40.861
+2026-06-30,Empresário,Outros,Consumo e habitação,57366.916,5460.712,2737.478
+2026-06-30,Empresário,Rural,Rural,260680.114,16376.34,8730.002
+2026-06-30,Empresário,Veículos,Consumo e habitação,63604.25,3192.343,853.654
+2026-06-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1993.834,314.051,260.817
+2026-06-30,MEI,Cartão: rotativo,Consumo e habitação,592.477,121.782,121.639
+2026-06-30,MEI,Cartão: saldo não migrado (legado),Legado,2167.67,1722.698,1706.864
+2026-06-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,13814.615,5.968,5.124
+2026-06-30,MEI,Cheque especial,Consumo e habitação,785.75,145.248,143.052
+2026-06-30,MEI,Crédito pessoal consignado,Consumo e habitação,2237.102,108.536,31.221
+2026-06-30,MEI,Crédito pessoal não consignado,Consumo e habitação,5785.285,823.018,362.176
+2026-06-30,MEI,Habitacional,Consumo e habitação,35388.973,601.529,52.26
+2026-06-30,MEI,Home equity,Consumo e habitação,426.256,11.59,1.254
+2026-06-30,MEI,Outros,Consumo e habitação,2685.338,451.272,222.212
+2026-06-30,MEI,Rural,Rural,1358.965,97.06,58.423
+2026-06-30,MEI,Veículos,Consumo e habitação,14734.291,938.515,253.554
+2026-06-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,44582.682,7175.831,5781.338
+2026-06-30,Outros,Cartão: rotativo,Consumo e habitação,9447.713,2692.343,2691.372
+2026-06-30,Outros,Cartão: saldo não migrado (legado),Legado,25837.509,20632.487,20512.399
+2026-06-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,155487.012,299.964,237.007
+2026-06-30,Outros,Cheque especial,Consumo e habitação,8510.861,1668.053,1650.99
+2026-06-30,Outros,Crédito pessoal consignado,Consumo e habitação,242562.62,10612.302,3049.982
+2026-06-30,Outros,Crédito pessoal não consignado,Consumo e habitação,120503.659,16425.009,7722.661
+2026-06-30,Outros,Habitacional,Consumo e habitação,294838.019,5755.977,508.739
+2026-06-30,Outros,Home equity,Consumo e habitação,2874.943,73.432,9.896
+2026-06-30,Outros,Outros,Consumo e habitação,53679.244,8486.81,4856.402
+2026-06-30,Outros,Rural,Rural,206907.917,12817.586,6833.864
+2026-06-30,Outros,Veículos,Consumo e habitação,129777.87,12804.143,3639.58
+2026-06-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11899.564,2866.922,1307.517
+2026-06-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3422.223,430.528,429.402
+2026-06-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7247.0,5381.86,5332.478
+2026-06-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,77289.459,777.479,576.433
+2026-06-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4478.319,542.306,534.411
+2026-06-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,271898.83,7512.33,1518.153
+2026-06-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40220.227,4238.497,1342.781
+2026-06-30,Servidor ou empregado público,Habitacional,Consumo e habitação,198118.779,1309.836,139.39
+2026-06-30,Servidor ou empregado público,Home equity,Consumo e habitação,3277.061,55.666,6.702
+2026-06-30,Servidor ou empregado público,Outros,Consumo e habitação,15757.101,2008.915,723.85
+2026-06-30,Servidor ou empregado público,Rural,Rural,20415.435,1448.944,829.507
+2026-06-30,Servidor ou empregado público,Veículos,Consumo e habitação,44764.753,1786.138,457.667
+2026-07-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10745.301,1306.56,503.719
+2026-07-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,1966.053,285.305,285.041
+2026-07-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3443.411,2696.791,2676.253
+2026-07-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,39598.136,450.14,327.756
+2026-07-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2768.464,361.078,357.169
+2026-07-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,159739.551,3622.945,907.734
+2026-07-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24759.529,2232.376,855.814
+2026-07-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25081.008,286.329,45.428
+2026-07-31,Aposentado/pensionista,Home equity,Consumo e habitação,1513.212,42.856,9.698
+2026-07-31,Aposentado/pensionista,Outros,Consumo e habitação,8891.916,1002.568,396.402
+2026-07-31,Aposentado/pensionista,Rural,Rural,12699.129,840.415,474.087
+2026-07-31,Aposentado/pensionista,Veículos,Consumo e habitação,19628.978,1025.847,283.648
+2026-07-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5211.677,647.366,511.726
+2026-07-31,Autônomo,Cartão: rotativo,Consumo e habitação,1332.58,227.326,227.155
+2026-07-31,Autônomo,Cartão: saldo não migrado (legado),Legado,4581.968,3605.859,3570.292
+2026-07-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,38485.421,26.656,21.533
+2026-07-31,Autônomo,Cheque especial,Consumo e habitação,3304.749,534.794,529.951
+2026-07-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,15671.069,621.257,183.286
+2026-07-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30880.476,3619.513,1460.5
+2026-07-31,Autônomo,Habitacional,Consumo e habitação,87490.091,1544.891,146.049
+2026-07-31,Autônomo,Home equity,Consumo e habitação,2949.832,84.487,11.556
+2026-07-31,Autônomo,Outros,Consumo e habitação,24892.799,3461.451,1807.367
+2026-07-31,Autônomo,Rural,Rural,156875.512,15086.883,8237.818
+2026-07-31,Autônomo,Veículos,Consumo e habitação,32741.817,2110.243,600.968
+2026-07-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,18937.077,2214.145,1735.66
+2026-07-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4541.955,714.483,714.027
+2026-07-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,16774.57,12998.148,12872.929
+2026-07-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,129850.963,66.608,49.919
+2026-07-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,9624.315,1472.318,1450.208
+2026-07-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,94313.407,5377.362,1750.331
+2026-07-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,86770.398,7504.723,2783.108
+2026-07-31,Empregado de empresa privada,Habitacional,Consumo e habitação,520873.204,5582.598,540.517
+2026-07-31,Empregado de empresa privada,Home equity,Consumo e habitação,6035.355,90.75,9.25
+2026-07-31,Empregado de empresa privada,Outros,Consumo e habitação,25356.385,3709.028,1576.853
+2026-07-31,Empregado de empresa privada,Rural,Rural,29372.044,2547.772,1425.549
+2026-07-31,Empregado de empresa privada,Veículos,Consumo e habitação,113485.392,5923.475,1598.862
+2026-07-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,109.08,11.477,8.591
+2026-07-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.388,4.173,4.171
+2026-07-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,79.217,61.431,60.872
+2026-07-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,659.519,0.632,0.457
+2026-07-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,41.233,6.446,6.344
+2026-07-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,604.061,29.997,9.269
+2026-07-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,416.085,40.038,15.535
+2026-07-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1852.039,19.698,1.84
+2026-07-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,28.542,0.081,0.033
+2026-07-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,126.606,18.389,9.542
+2026-07-31,Empregado de entidades sem fins lucrativos,Rural,Rural,297.899,10.552,3.918
+2026-07-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,443.116,22.902,6.652
+2026-07-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9441.307,1107.131,903.295
+2026-07-31,Empresário,Cartão: rotativo,Consumo e habitação,2572.207,277.357,277.165
+2026-07-31,Empresário,Cartão: saldo não migrado (legado),Legado,9539.263,7291.993,7201.964
+2026-07-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,98371.365,24.318,19.636
+2026-07-31,Empresário,Cheque especial,Consumo e habitação,8182.846,1133.739,1119.357
+2026-07-31,Empresário,Crédito pessoal consignado,Consumo e habitação,16786.847,500.023,138.046
+2026-07-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,67596.345,6271.796,2319.837
+2026-07-31,Empresário,Habitacional,Consumo e habitação,249700.081,3324.768,356.612
+2026-07-31,Empresário,Home equity,Consumo e habitação,12806.261,388.026,43.085
+2026-07-31,Empresário,Outros,Consumo e habitação,57523.059,5761.667,2843.258
+2026-07-31,Empresário,Rural,Rural,258681.315,18993.845,10032.227
+2026-07-31,Empresário,Veículos,Consumo e habitação,63752.894,3239.343,884.96
+2026-07-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1972.453,291.578,237.472
+2026-07-31,MEI,Cartão: rotativo,Consumo e habitação,563.587,115.338,115.21
+2026-07-31,MEI,Cartão: saldo não migrado (legado),Legado,2217.083,1787.654,1771.968
+2026-07-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,14033.436,6.011,5.207
+2026-07-31,MEI,Cheque especial,Consumo e habitação,768.476,147.028,144.883
+2026-07-31,MEI,Crédito pessoal consignado,Consumo e habitação,2291.692,121.617,37.16
+2026-07-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5906.351,897.854,406.519
+2026-07-31,MEI,Habitacional,Consumo e habitação,36148.664,615.224,55.805
+2026-07-31,MEI,Home equity,Consumo e habitação,436.842,10.996,1.348
+2026-07-31,MEI,Outros,Consumo e habitação,2698.409,447.335,215.182
+2026-07-31,MEI,Rural,Rural,1360.709,119.106,73.798
+2026-07-31,MEI,Veículos,Consumo e habitação,14878.226,957.209,263.4
+2026-07-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,43336.779,6076.379,4648.486
+2026-07-31,Outros,Cartão: rotativo,Consumo e habitação,9849.81,2599.293,2598.162
+2026-07-31,Outros,Cartão: saldo não migrado (legado),Legado,26300.511,21442.889,21322.731
+2026-07-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,158158.753,301.706,241.148
+2026-07-31,Outros,Cheque especial,Consumo e habitação,8547.079,1678.313,1660.721
+2026-07-31,Outros,Crédito pessoal consignado,Consumo e habitação,245309.844,12124.343,3645.461
+2026-07-31,Outros,Crédito pessoal não consignado,Consumo e habitação,122402.68,17744.792,8514.807
+2026-07-31,Outros,Habitacional,Consumo e habitação,301600.471,5878.404,505.881
+2026-07-31,Outros,Home equity,Consumo e habitação,2937.417,75.34,10.159
+2026-07-31,Outros,Outros,Consumo e habitação,54531.73,8649.262,4890.747
+2026-07-31,Outros,Rural,Rural,206374.393,14654.833,7811.574
+2026-07-31,Outros,Veículos,Consumo e habitação,131591.519,13146.986,3805.489
+2026-07-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11327.682,2521.958,999.214
+2026-07-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3530.819,419.056,417.889
+2026-07-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7295.562,5590.612,5544.507
+2026-07-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,79017.732,777.543,589.775
+2026-07-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4397.786,550.359,543.091
+2026-07-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,273083.769,7826.2,1604.993
+2026-07-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40292.729,4533.499,1432.326
+2026-07-31,Servidor ou empregado público,Habitacional,Consumo e habitação,199742.728,1352.274,147.027
+2026-07-31,Servidor ou empregado público,Home equity,Consumo e habitação,3327.805,54.928,7.688
+2026-07-31,Servidor ou empregado público,Outros,Consumo e habitação,15848.194,2055.659,719.576
+2026-07-31,Servidor ou empregado público,Rural,Rural,20363.524,1688.567,978.235
+2026-07-31,Servidor ou empregado público,Veículos,Consumo e habitação,45120.187,1803.935,472.096
+2026-08-31,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10258.036,1134.042,498.537
+2026-08-31,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2015.651,324.616,324.326
+2026-08-31,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3617.494,2856.637,2836.995
+2026-08-31,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,39650.502,455.586,340.033
+2026-08-31,Aposentado/pensionista,Cheque especial,Consumo e habitação,2883.339,343.245,339.38
+2026-08-31,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,159446.051,3570.7,873.887
+2026-08-31,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,24959.434,2273.956,875.361
+2026-08-31,Aposentado/pensionista,Habitacional,Consumo e habitação,25023.836,279.4,39.027
+2026-08-31,Aposentado/pensionista,Home equity,Consumo e habitação,1516.523,41.534,6.774
+2026-08-31,Aposentado/pensionista,Outros,Consumo e habitação,8902.65,1014.841,403.765
+2026-08-31,Aposentado/pensionista,Rural,Rural,12732.78,893.085,484.501
+2026-08-31,Aposentado/pensionista,Veículos,Consumo e habitação,19809.367,1010.848,284.241
+2026-08-31,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5199.382,659.738,526.462
+2026-08-31,Autônomo,Cartão: rotativo,Consumo e habitação,1385.746,251.568,251.428
+2026-08-31,Autônomo,Cartão: saldo não migrado (legado),Legado,4772.437,3791.499,3757.14
+2026-08-31,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,38781.324,36.19,31.029
+2026-08-31,Autônomo,Cheque especial,Consumo e habitação,3352.71,528.209,522.996
+2026-08-31,Autônomo,Crédito pessoal consignado,Consumo e habitação,15848.186,652.33,198.125
+2026-08-31,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30834.902,3772.001,1524.914
+2026-08-31,Autônomo,Habitacional,Consumo e habitação,88479.626,1501.582,143.658
+2026-08-31,Autônomo,Home equity,Consumo e habitação,2980.437,79.927,8.942
+2026-08-31,Autônomo,Outros,Consumo e habitação,25552.556,3669.847,1872.756
+2026-08-31,Autônomo,Rural,Rural,158005.031,16733.954,8987.378
+2026-08-31,Autônomo,Veículos,Consumo e habitação,33271.843,2111.393,610.392
+2026-08-31,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,19044.754,2245.578,1773.857
+2026-08-31,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4512.014,773.473,773.08
+2026-08-31,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,17751.775,14016.061,13892.749
+2026-08-31,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,130614.662,78.977,62.597
+2026-08-31,Empregado de empresa privada,Cheque especial,Consumo e habitação,10040.431,1471.076,1449.105
+2026-08-31,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,96371.944,5766.484,1945.061
+2026-08-31,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,86231.328,7691.217,2897.931
+2026-08-31,Empregado de empresa privada,Habitacional,Consumo e habitação,526110.891,5485.253,530.521
+2026-08-31,Empregado de empresa privada,Home equity,Consumo e habitação,6120.89,96.156,7.835
+2026-08-31,Empregado de empresa privada,Outros,Consumo e habitação,25887.259,3703.988,1593.082
+2026-08-31,Empregado de empresa privada,Rural,Rural,29708.478,2826.159,1565.98
+2026-08-31,Empregado de empresa privada,Veículos,Consumo e habitação,115319.429,5960.2,1632.577
+2026-08-31,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,109.083,11.651,8.848
+2026-08-31,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.03,4.558,4.555
+2026-08-31,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,85.305,65.878,65.342
+2026-08-31,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,659.41,0.698,0.528
+2026-08-31,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,42.745,6.393,6.269
+2026-08-31,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,612.61,31.719,10.346
+2026-08-31,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,415.767,41.963,16.261
+2026-08-31,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1877.297,19.797,2.107
+2026-08-31,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,28.265,0.032,0.003
+2026-08-31,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,127.702,18.546,9.81
+2026-08-31,Empregado de entidades sem fins lucrativos,Rural,Rural,309.883,20.475,5.26
+2026-08-31,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,447.953,22.739,6.755
+2026-08-31,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9449.545,1136.88,936.746
+2026-08-31,Empresário,Cartão: rotativo,Consumo e habitação,2706.839,310.215,310.043
+2026-08-31,Empresário,Cartão: saldo não migrado (legado),Legado,9857.293,7603.148,7516.012
+2026-08-31,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,98893.263,32.999,28.282
+2026-08-31,Empresário,Cheque especial,Consumo e habitação,8343.812,1131.297,1117.145
+2026-08-31,Empresário,Crédito pessoal consignado,Consumo e habitação,16957.53,518.653,146.414
+2026-08-31,Empresário,Crédito pessoal não consignado,Consumo e habitação,67431.21,6417.939,2399.901
+2026-08-31,Empresário,Habitacional,Consumo e habitação,251958.826,3300.101,340.056
+2026-08-31,Empresário,Home equity,Consumo e habitação,13000.62,406.651,39.954
+2026-08-31,Empresário,Outros,Consumo e habitação,61010.656,5996.014,3038.024
+2026-08-31,Empresário,Rural,Rural,259051.358,21365.106,10963.786
+2026-08-31,Empresário,Veículos,Consumo e habitação,64210.066,3240.232,892.954
+2026-08-31,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1977.434,296.138,242.477
+2026-08-31,MEI,Cartão: rotativo,Consumo e habitação,575.544,122.084,121.992
+2026-08-31,MEI,Cartão: saldo não migrado (legado),Legado,2295.173,1866.176,1850.087
+2026-08-31,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,14183.562,9.188,8.312
+2026-08-31,MEI,Cheque especial,Consumo e habitação,774.267,145.042,142.986
+2026-08-31,MEI,Crédito pessoal consignado,Consumo e habitação,2349.733,130.387,41.222
+2026-08-31,MEI,Crédito pessoal não consignado,Consumo e habitação,5979.208,924.655,427.01
+2026-08-31,MEI,Habitacional,Consumo e habitação,36787.439,608.366,52.947
+2026-08-31,MEI,Home equity,Consumo e habitação,442.464,10.434,0.947
+2026-08-31,MEI,Outros,Consumo e habitação,2752.886,451.426,220.03
+2026-08-31,MEI,Rural,Rural,1377.874,124.773,77.574
+2026-08-31,MEI,Veículos,Consumo e habitação,15147.289,957.46,267.586
+2026-08-31,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,43256.084,6211.437,4801.369
+2026-08-31,Outros,Cartão: rotativo,Consumo e habitação,9599.325,2802.249,2801.115
+2026-08-31,Outros,Cartão: saldo não migrado (legado),Legado,28541.628,23688.523,23571.354
+2026-08-31,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,159429.072,393.119,332.842
+2026-08-31,Outros,Cheque especial,Consumo e habitação,8612.531,1647.165,1629.695
+2026-08-31,Outros,Crédito pessoal consignado,Consumo e habitação,248204.592,13065.074,4070.432
+2026-08-31,Outros,Crédito pessoal não consignado,Consumo e habitação,123474.597,18376.169,8942.382
+2026-08-31,Outros,Habitacional,Consumo e habitação,307285.155,5794.727,504.612
+2026-08-31,Outros,Home equity,Consumo e habitação,3024.007,79.253,9.453
+2026-08-31,Outros,Outros,Consumo e habitação,55660.26,8957.842,5015.788
+2026-08-31,Outros,Rural,Rural,208795.091,16082.576,8537.572
+2026-08-31,Outros,Veículos,Consumo e habitação,134017.935,13293.556,3906.35
+2026-08-31,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11031.875,2105.003,971.183
+2026-08-31,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3594.344,492.587,491.413
+2026-08-31,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,7895.208,6223.603,6178.365
+2026-08-31,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,78896.154,791.385,616.104
+2026-08-31,Servidor ou empregado público,Cheque especial,Consumo e habitação,4669.814,551.139,544.507
+2026-08-31,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,273880.256,7734.03,1545.408
+2026-08-31,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40703.431,4686.392,1494.757
+2026-08-31,Servidor ou empregado público,Habitacional,Consumo e habitação,201102.593,1333.499,143.601
+2026-08-31,Servidor ou empregado público,Home equity,Consumo e habitação,3353.794,52.58,6.19
+2026-08-31,Servidor ou empregado público,Outros,Consumo e habitação,16099.931,2078.292,740.219
+2026-08-31,Servidor ou empregado público,Rural,Rural,20499.158,1846.953,1066.342
+2026-08-31,Servidor ou empregado público,Veículos,Consumo e habitação,45750.743,1803.511,478.507
+2026-09-30,Aposentado/pensionista,Cartão: parcelado pelo emissor e saque,Consumo e habitação,10180.216,1146.356,521.109
+2026-09-30,Aposentado/pensionista,Cartão: rotativo,Consumo e habitação,2042.921,328.122,327.773
+2026-09-30,Aposentado/pensionista,Cartão: saldo não migrado (legado),Legado,3576.08,2797.005,2778.423
+2026-09-30,Aposentado/pensionista,Cartão: à vista e parcelado lojista,Consumo e habitação,39008.612,445.245,336.849
+2026-09-30,Aposentado/pensionista,Cheque especial,Consumo e habitação,2962.386,360.326,356.849
+2026-09-30,Aposentado/pensionista,Crédito pessoal consignado,Consumo e habitação,159590.816,3508.413,891.477
+2026-09-30,Aposentado/pensionista,Crédito pessoal não consignado,Consumo e habitação,25004.043,2242.007,879.857
+2026-09-30,Aposentado/pensionista,Habitacional,Consumo e habitação,24943.177,305.775,38.272
+2026-09-30,Aposentado/pensionista,Home equity,Consumo e habitação,1527.706,37.88,7.106
+2026-09-30,Aposentado/pensionista,Outros,Consumo e habitação,8893.842,977.348,401.217
+2026-09-30,Aposentado/pensionista,Rural,Rural,12612.084,860.429,460.463
+2026-09-30,Aposentado/pensionista,Veículos,Consumo e habitação,19783.818,1014.49,290.747
+2026-09-30,Autônomo,Cartão: parcelado pelo emissor e saque,Consumo e habitação,5215.033,676.768,541.929
+2026-09-30,Autônomo,Cartão: rotativo,Consumo e habitação,1410.927,259.361,259.206
+2026-09-30,Autônomo,Cartão: saldo não migrado (legado),Legado,4849.506,3862.761,3830.821
+2026-09-30,Autônomo,Cartão: à vista e parcelado lojista,Consumo e habitação,38406.032,17.129,12.589
+2026-09-30,Autônomo,Cheque especial,Consumo e habitação,3418.937,544.011,538.962
+2026-09-30,Autônomo,Crédito pessoal consignado,Consumo e habitação,15988.743,662.336,203.702
+2026-09-30,Autônomo,Crédito pessoal não consignado,Consumo e habitação,30692.506,4413.737,1534.391
+2026-09-30,Autônomo,Habitacional,Consumo e habitação,89194.933,1718.325,153.525
+2026-09-30,Autônomo,Home equity,Consumo e habitação,3036.293,77.294,9.217
+2026-09-30,Autônomo,Outros,Consumo e habitação,25594.672,3560.871,1873.579
+2026-09-30,Autônomo,Rural,Rural,154980.616,14504.42,7351.468
+2026-09-30,Autônomo,Veículos,Consumo e habitação,33556.494,2176.202,648.221
+2026-09-30,Empregado de empresa privada,Cartão: parcelado pelo emissor e saque,Consumo e habitação,19294.484,2311.614,1829.883
+2026-09-30,Empregado de empresa privada,Cartão: rotativo,Consumo e habitação,4623.265,805.593,805.159
+2026-09-30,Empregado de empresa privada,Cartão: saldo não migrado (legado),Legado,18141.547,14353.055,14231.806
+2026-09-30,Empregado de empresa privada,Cartão: à vista e parcelado lojista,Consumo e habitação,129726.439,55.119,40.023
+2026-09-30,Empregado de empresa privada,Cheque especial,Consumo e habitação,10280.752,1518.652,1498.039
+2026-09-30,Empregado de empresa privada,Crédito pessoal consignado,Consumo e habitação,97369.092,5971.319,1946.816
+2026-09-30,Empregado de empresa privada,Crédito pessoal não consignado,Consumo e habitação,85926.975,7677.181,2924.993
+2026-09-30,Empregado de empresa privada,Habitacional,Consumo e habitação,530093.54,6451.882,607.914
+2026-09-30,Empregado de empresa privada,Home equity,Consumo e habitação,6219.338,95.241,8.115
+2026-09-30,Empregado de empresa privada,Outros,Consumo e habitação,26092.151,3630.055,1579.109
+2026-09-30,Empregado de empresa privada,Rural,Rural,29363.72,2486.968,1311.619
+2026-09-30,Empregado de empresa privada,Veículos,Consumo e habitação,115433.781,6178.902,1766.334
+2026-09-30,Empregado de entidades sem fins lucrativos,Cartão: parcelado pelo emissor e saque,Consumo e habitação,109.786,12.036,9.184
+2026-09-30,Empregado de entidades sem fins lucrativos,Cartão: rotativo,Consumo e habitação,25.732,4.559,4.557
+2026-09-30,Empregado de entidades sem fins lucrativos,Cartão: saldo não migrado (legado),Legado,87.348,69.222,68.656
+2026-09-30,Empregado de entidades sem fins lucrativos,Cartão: à vista e parcelado lojista,Consumo e habitação,653.499,0.56,0.401
+2026-09-30,Empregado de entidades sem fins lucrativos,Cheque especial,Consumo e habitação,43.448,6.554,6.4
+2026-09-30,Empregado de entidades sem fins lucrativos,Crédito pessoal consignado,Consumo e habitação,616.772,32.198,10.273
+2026-09-30,Empregado de entidades sem fins lucrativos,Crédito pessoal não consignado,Consumo e habitação,417.435,43.03,16.58
+2026-09-30,Empregado de entidades sem fins lucrativos,Habitacional,Consumo e habitação,1887.44,24.357,2.878
+2026-09-30,Empregado de entidades sem fins lucrativos,Home equity,Consumo e habitação,29.116,2.052,0.049
+2026-09-30,Empregado de entidades sem fins lucrativos,Outros,Consumo e habitação,125.193,17.698,9.641
+2026-09-30,Empregado de entidades sem fins lucrativos,Rural,Rural,317.499,21.642,5.69
+2026-09-30,Empregado de entidades sem fins lucrativos,Veículos,Consumo e habitação,449.846,23.446,7.558
+2026-09-30,Empresário,Cartão: parcelado pelo emissor e saque,Consumo e habitação,9516.346,1160.066,957.679
+2026-09-30,Empresário,Cartão: rotativo,Consumo e habitação,2757.927,323.515,323.319
+2026-09-30,Empresário,Cartão: saldo não migrado (legado),Legado,10063.745,7833.125,7745.72
+2026-09-30,Empresário,Cartão: à vista e parcelado lojista,Consumo e habitação,98098.679,16.081,11.873
+2026-09-30,Empresário,Cheque especial,Consumo e habitação,8551.71,1168.258,1154.232
+2026-09-30,Empresário,Crédito pessoal consignado,Consumo e habitação,17118.674,524.726,153.101
+2026-09-30,Empresário,Crédito pessoal não consignado,Consumo e habitação,67180.916,6339.803,2419.33
+2026-09-30,Empresário,Habitacional,Consumo e habitação,253679.144,3695.892,370.771
+2026-09-30,Empresário,Home equity,Consumo e habitação,13107.841,386.172,40.885
+2026-09-30,Empresário,Outros,Consumo e habitação,60999.585,5889.654,3052.724
+2026-09-30,Empresário,Rural,Rural,254928.028,19243.266,9196.25
+2026-09-30,Empresário,Veículos,Consumo e habitação,64081.411,3301.577,935.601
+2026-09-30,MEI,Cartão: parcelado pelo emissor e saque,Consumo e habitação,1992.446,305.794,250.688
+2026-09-30,MEI,Cartão: rotativo,Consumo e habitação,593.024,126.109,126.03
+2026-09-30,MEI,Cartão: saldo não migrado (legado),Legado,2348.44,1915.609,1900.206
+2026-09-30,MEI,Cartão: à vista e parcelado lojista,Consumo e habitação,14118.597,3.047,2.314
+2026-09-30,MEI,Cheque especial,Consumo e habitação,793.834,149.164,146.987
+2026-09-30,MEI,Crédito pessoal consignado,Consumo e habitação,2399.944,133.727,42.609
+2026-09-30,MEI,Crédito pessoal não consignado,Consumo e habitação,5995.193,925.268,431.726
+2026-09-30,MEI,Habitacional,Consumo e habitação,37254.639,711.365,61.567
+2026-09-30,MEI,Home equity,Consumo e habitação,448.244,12.522,1.17
+2026-09-30,MEI,Outros,Consumo e habitação,2789.72,459.261,221.889
+2026-09-30,MEI,Rural,Rural,1389.238,119.687,72.377
+2026-09-30,MEI,Veículos,Consumo e habitação,15196.139,978.416,284.547
+2026-09-30,Outros,Cartão: parcelado pelo emissor e saque,Consumo e habitação,43457.856,6424.405,4987.133
+2026-09-30,Outros,Cartão: rotativo,Consumo e habitação,9846.228,2899.674,2898.473
+2026-09-30,Outros,Cartão: saldo não migrado (legado),Legado,29056.593,24152.184,24035.868
+2026-09-30,Outros,Cartão: à vista e parcelado lojista,Consumo e habitação,158257.824,214.496,159.773
+2026-09-30,Outros,Cheque especial,Consumo e habitação,8721.29,1702.742,1686.313
+2026-09-30,Outros,Crédito pessoal consignado,Consumo e habitação,250209.986,13514.971,4265.46
+2026-09-30,Outros,Crédito pessoal não consignado,Consumo e habitação,124019.394,18570.213,9082.47
+2026-09-30,Outros,Habitacional,Consumo e habitação,311720.013,6754.369,571.5
+2026-09-30,Outros,Home equity,Consumo e habitação,3060.8,80.602,9.661
+2026-09-30,Outros,Outros,Consumo e habitação,56332.824,8916.882,4972.988
+2026-09-30,Outros,Rural,Rural,207814.006,14406.875,7388.733
+2026-09-30,Outros,Veículos,Consumo e habitação,135312.653,13892.293,4316.303
+2026-09-30,Servidor ou empregado público,Cartão: parcelado pelo emissor e saque,Consumo e habitação,11099.205,2137.555,1017.58
+2026-09-30,Servidor ou empregado público,Cartão: rotativo,Consumo e habitação,3673.872,500.463,499.22
+2026-09-30,Servidor ou empregado público,Cartão: saldo não migrado (legado),Legado,8012.965,6300.86,6257.809
+2026-09-30,Servidor ou empregado público,Cartão: à vista e parcelado lojista,Consumo e habitação,77761.123,764.213,601.824
+2026-09-30,Servidor ou empregado público,Cheque especial,Consumo e habitação,4778.161,568.067,561.797
+2026-09-30,Servidor ou empregado público,Crédito pessoal consignado,Consumo e habitação,274454.696,7837.013,1547.276
+2026-09-30,Servidor ou empregado público,Crédito pessoal não consignado,Consumo e habitação,40947.229,4674.725,1497.58
+2026-09-30,Servidor ou empregado público,Habitacional,Consumo e habitação,201946.033,1542.247,159.077
+2026-09-30,Servidor ou empregado público,Home equity,Consumo e habitação,3401.671,60.893,7.14
+2026-09-30,Servidor ou empregado público,Outros,Consumo e habitação,16149.705,1963.494,719.369
+2026-09-30,Servidor ou empregado público,Rural,Rural,20255.815,1646.66,883.721
+2026-09-30,Servidor ou empregado público,Veículos,Consumo e habitação,45736.363,1817.393,490.607

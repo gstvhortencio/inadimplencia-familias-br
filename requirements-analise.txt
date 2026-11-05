@@ -1,0 +1,9 @@
+# Coleta, EDA e dashboard (o deploy no Render usa só requirements.txt)
+pandas>=2.2
+pyarrow>=15
+requests>=2.31
+duckdb>=1.0
+matplotlib>=3.8
+jupyter>=1.0
+dash>=4.0
+plotly>=6.0

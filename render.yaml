@@ -1,0 +1,12 @@
+# Blueprint do Render: cria o serviço web do dashboard a partir deste repositório.
+# No Render: New + > Blueprint > selecione o repositório.
+services:
+  - type: web
+    name: inadimplencia-familias-br
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:server --workers 1 --threads 4 --timeout 120
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
