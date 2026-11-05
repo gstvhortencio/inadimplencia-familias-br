@@ -10,6 +10,10 @@ Partnership project **EBAC × Semantix**.
 
 > The dashboard runs on Render's free tier: if it is asleep, the first load takes about 50 seconds.
 
+![Dashboard: default rate by credit product](docs/img/03_produtos.png)
+
+More screenshots of every tab are in the [Portuguese README](README.md#o-dashboard).
+
 ## The question
 
 Brazilian household debt reached a record 50.1% of annual income in August 2026, and 29% of

@@ -11,6 +11,8 @@ de registros do **SCR.data** e nove séries do **SGS**, do Banco Central. Projet
 > O dashboard roda no plano gratuito do Render: se ele estiver "dormindo", a primeira abertura leva
 > cerca de 50 segundos.
 
+![Dashboard: inadimplência por produto](docs/img/03_produtos.png)
+
 ## O problema
 
 O endividamento das famílias chegou a 50,1% da renda em agosto/2026, e 29% da renda vai para o
@@ -23,11 +25,46 @@ possam agir de forma direcionada. [Dissertação completa](docs/01_dissertacao.m
 | | |
 |---|---|
 | **3,97% → 6,17%** | inadimplência do crédito às pessoas físicas em 21 meses |
-| **48%** | do aumento do saldo inadimplido vem do crédito rural e de um estoque legado de cartão, não do consumo |
+| **48%** | do aumento do saldo inadimplido vem do crédito a produtores rurais e de um estoque legado de cartão, não do consumo das famílias |
 | **21%** | de inadimplência no rotativo do cartão (+8,4 p.p.), o produto mais arriscado |
 | **3×** | a inadimplência de quem ganha até 1 salário mínimo em relação à faixa de 10 a 20 SM |
 | **11% → 21%** | inadimplência nas fintechs, que dobraram a carteira de pessoas físicas |
 | **3,6%** | Paraíba: segunda menor taxa do país e a menor alta entre as UFs |
+
+## O dashboard
+
+O painel tem sete abas, todas com filtros de escopo do crédito, região e mês, e um quadro "Como
+ler" em cada gráfico. Clique para ver cada uma:
+
+<details><summary><b>Comece aqui</b>: o que é a taxa de inadimplência, os escopos e os principais achados</summary>
+
+![Comece aqui](docs/img/01_comece_aqui.png)
+</details>
+
+<details><summary><b>Evolução</b>: a taxa mês a mês e a relação com os juros</summary>
+
+![Evolução](docs/img/02_evolucao.png)
+</details>
+
+<details><summary><b>Estados</b>: mapa e ranking das UFs</summary>
+
+![Estados](docs/img/04_estados.png)
+</details>
+
+<details><summary><b>Perfil do tomador</b>: renda e ocupação</summary>
+
+![Perfil do tomador](docs/img/05_perfil.png)
+</details>
+
+<details><summary><b>Crescimento × risco</b>: quem cresceu e piorou ao mesmo tempo</summary>
+
+![Crescimento × risco](docs/img/06_crescimento_risco.png)
+</details>
+
+<details><summary><b>Fontes e método</b>: validação do cálculo contra a série oficial</summary>
+
+![Fontes e método](docs/img/07_fontes_metodo.png)
+</details>
 
 ## Estrutura
 

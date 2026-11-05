@@ -6,18 +6,41 @@ referência visual.
 
 ## 1. Fontes de dados
 
-Importe os CSVs no Google Sheets (uma planilha por arquivo, ou abas de uma mesma planilha) e
-conecte cada um no Looker Studio (*Adicionar dados > Planilhas Google*):
+Os CSVs já saem prontos de `src/gerar_bases.py`, em UTF-8 e separados por vírgula. O jeito mais
+direto é enviá-los ao Looker Studio pelo conector **Upload de arquivo**, sem passar pelo Google
+Sheets:
+
+1. No relatório, **Adicionar dados > Upload de arquivo**.
+2. Arraste o CSV (um por fonte de dados) e clique em **Conectar** quando o upload terminar.
+3. Repita para os quatro arquivos:
 
 | Arquivo | Linhas | Uso |
 |---|---|---|
-| `fato_credito_pf.csv` | ~61 mil | Base principal: mês × UF × produto × renda |
+| `fato_credito_pf.csv` | ~61 mil | Base principal: mês × UF × produto × escopo × renda |
 | `segmento_mes.csv` | ~1,3 mil | Tipo de instituição |
 | `ocupacao_mes.csv` | ~2 mil | Ocupação |
-| `serie_nacional.csv` | 21 | Séries do SGS (juros, Selic, endividamento) |
+| `serie_nacional.csv` | 21 | Taxas nacionais e séries do SGS (juros, Selic, IPCA, endividamento) |
 
-Na fonte `fato_credito_pf`, confira os tipos: `mes` como **Data**, `uf` como **Geo > Subdivisão de
-país (1º nível)**, as colunas `_mi` como **Número**.
+Alternativa: importar cada CSV no Google Sheets (*Arquivo > Importar > Upload*) e conectar com
+*Adicionar dados > Planilhas Google*. Vale a pena se você quiser atualizar os dados depois sem
+refazer o relatório.
+
+Em cada fonte, confira os tipos: `mes` como **Data**, `uf` como **Geo > Subdivisão de país
+(1º nível)** e as colunas terminadas em `_mi` como **Número**.
+
+**Rótulos do escopo.** Nos CSVs, a coluna `escopo` vem com os valores técnicos `Consumo e habitação`,
+`Rural` e `Legado`. Para o filtro mostrar os mesmos nomes do dashboard em Dash, crie o campo:
+
+```
+Escopo do crédito = CASE
+  WHEN escopo = "Consumo e habitação" THEN "Famílias: consumo e habitação"
+  WHEN escopo = "Rural" THEN "Produtores rurais (pessoa física)"
+  WHEN escopo = "Legado" THEN "Saldo legado de cartão"
+END
+```
+
+Use esse campo num controle de **lista suspensa com seleção múltipla**, com só "Famílias: consumo e
+habitação" marcado por padrão. Marcar mais itens soma os blocos, como no Dash.
 
 ## 2. Campos calculados (crie em cada fonte)
 
@@ -33,7 +56,8 @@ A taxa **tem** de ser razão de somas. Nunca use média de uma coluna de taxa: c
 
 ## 3. Controles (topo de todas as páginas)
 
-- **Escopo** (lista suspensa no campo `escopo`), com padrão "Consumo e habitação".
+- **Escopo do crédito** (lista suspensa no campo calculado acima), com padrão "Famílias: consumo e
+  habitação".
 - **Região** (lista suspensa em `regiao`).
 - **Período** (controle de intervalo de datas em `mes`).
 
