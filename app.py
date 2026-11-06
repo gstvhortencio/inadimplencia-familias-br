@@ -299,7 +299,8 @@ estão crescendo. Os filtros do topo valem para todas as abas.
    três vezes mais que quem ganha de 10 a 20. Autônomos e MEIs estão acima da média.
 4. **Fintechs e financeiras cresceram e pioraram juntas:** as fintechs dobraram a carteira e a
    inadimplência foi de 11% para 21%.
-5. **O Norte lidera; a Paraíba tem a segunda menor taxa do país** e a menor alta.
+5. **O Norte lidera; a Paraíba tem a segunda menor taxa do país** e a segunda menor alta (só o DF
+   subiu menos).
 """)),
         html.Div(children=[
             topico("O que é a taxa de inadimplência",

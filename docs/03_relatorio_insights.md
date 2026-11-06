@@ -79,8 +79,8 @@ distinção muda o diagnóstico e, portanto, a política.
 - Tocantins (6,6%), Roraima (6,4%), Pará (6,0%) e Amazonas (5,9%) têm as maiores taxas de consumo.
 - Com o crédito rural incluído, Maranhão, Mato Grosso do Sul, Goiás e Mato Grosso sobem para o
   topo do ranking, um efeito do agronegócio e não do consumo.
-- **Paraíba:** 3,6% em set/2026, segunda menor taxa do país (só o DF tem menos), e a **menor alta
-  entre todas as UFs** (+0,5 p.p.).
+- **Paraíba:** 3,6% em set/2026, segunda menor taxa do país (só o DF tem menos), e a **segunda
+  menor alta** (+0,5 p.p.); só o DF subiu menos.
 - Rio Grande do Sul teve uma das maiores altas (+2,3 p.p.), partindo de um nível baixo.
 
 ### 4. Renda baixa e renda variável concentram o risco

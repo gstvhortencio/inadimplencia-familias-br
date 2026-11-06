@@ -103,8 +103,8 @@ CTEs, filtros agregados e funções de janela). Técnicas usadas:
 4. **Renda baixa e variável concentram o risco:** quem ganha até 1 SM tem cerca de três vezes a
    inadimplência de quem ganha de 10 a 20 SM. Autônomos e MEIs têm as maiores taxas entre as
    ocupações.
-5. **Norte lidera, e a Paraíba é destaque positivo:** segunda menor taxa do país (3,6%) e a menor
-   alta entre as UFs.
+5. **Norte lidera, e a Paraíba é destaque positivo:** segunda menor taxa do país (3,6%) e a segunda
+   menor alta (só o DF subiu menos).
 6. **Fintechs e financeiras cresceram e pioraram juntas:** fintechs com +108% de carteira real e
    inadimplência de 11,2% para 21,2%.
 7. **Juros × inadimplência:** correlação alta no nível, fraca nas variações. O período é curto

@@ -6,7 +6,7 @@ An analysis of 21 months of consumer credit in Brazil (Jan 2025 – Sep 2026), b
 records from the Central Bank's **SCR.data** open credit registry and nine **SGS** time series.
 Partnership project **EBAC × Semantix**.
 
-**[Open the interactive dashboard](https://inadimplencia-familias-br.onrender.com)** (in Portuguese) · [Insights report (PT)](docs/03_relatorio_insights.md)
+**[Open the interactive dashboard](https://inadimplencia-familias-br.onrender.com)** (in Portuguese) · [Looker Studio dashboard](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) · [Insights report (PT)](docs/03_relatorio_insights.md)
 
 > The dashboard runs on Render's free tier: if it is asleep, the first load takes about 50 seconds.
 
@@ -30,7 +30,7 @@ than national averages.
 | **21%** | default rate on revolving credit-card debt (+8.4 pp), the riskiest product |
 | **3×** | the default rate of borrowers earning up to 1 minimum wage versus those earning 10–20 |
 | **11% → 21%** | default rate at fintechs, which doubled their household loan book |
-| **3.6%** | Paraíba: second-lowest rate in the country and the smallest increase of any state |
+| **3.6%** | Paraíba: second-lowest rate in the country and second-smallest increase (only the Federal District rose less) |
 
 ## Method
 
@@ -61,4 +61,4 @@ python app.py
 
 ---
 
-Gustavo Hortencio da Silva · economist (UFPB) · [GitHub](https://github.com/gstvhortencio)
+Gustavo Hortencio da Silva · economist (UFPB) · [LinkedIn](https://www.linkedin.com/in/gustavo-hortencio) · [GitHub](https://github.com/gstvhortencio)

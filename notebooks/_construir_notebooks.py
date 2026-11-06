@@ -351,8 +351,8 @@ pd.DataFrame({"rank_consumo": uf.taxa_fim.rank(ascending=False),
 - Incluir o crédito rural muda o retrato: Tocantins, Maranhão, Mato Grosso do Sul, Goiás e
   Mato Grosso sobem no ranking por causa do agronegócio. Quem olha só o total confunde **crise do
   crédito rural** com **endividamento das famílias**.
-- **Paraíba** é um caso positivo: 3,6% em set/2026, segunda menor taxa do país, e a menor alta de
-  todas as UFs (+0,5 p.p.). Só o Distrito Federal tem taxa menor.
+- **Paraíba** é um caso positivo: 3,6% em set/2026, segunda menor taxa do país e a segunda
+  menor alta (+0,5 p.p.). Só o Distrito Federal tem taxa menor e subiu menos.
 - Sul e Sudeste têm as menores taxas, mas o Rio Grande do Sul teve alta forte (+2,3 p.p.).
 """),
     md("## 3. Perfil do tomador: renda e ocupação"),

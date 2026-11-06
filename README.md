@@ -6,7 +6,7 @@ Análise de 21 meses de crédito a pessoas físicas no Brasil (jan/2025 a set/20
 de registros do **SCR.data** e nove séries do **SGS**, do Banco Central. Projeto de parceria
 **EBAC × Semantix**.
 
-**[Abrir o dashboard interativo](https://inadimplencia-familias-br.onrender.com)** · [Dashboard no Looker Studio](#) · [Relatório de insights](docs/03_relatorio_insights.md)
+**[Abrir o dashboard interativo](https://inadimplencia-familias-br.onrender.com)** · [Dashboard no Looker Studio](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) · [Relatório de insights](docs/03_relatorio_insights.md)
 
 > O dashboard roda no plano gratuito do Render: se ele estiver "dormindo", a primeira abertura leva
 > cerca de 50 segundos.
@@ -29,7 +29,7 @@ possam agir de forma direcionada. [Dissertação completa](docs/01_dissertacao.m
 | **21%** | de inadimplência no rotativo do cartão (+8,4 p.p.), o produto mais arriscado |
 | **3×** | a inadimplência de quem ganha até 1 salário mínimo em relação à faixa de 10 a 20 SM |
 | **11% → 21%** | inadimplência nas fintechs, que dobraram a carteira de pessoas físicas |
-| **3,6%** | Paraíba: segunda menor taxa do país e a menor alta entre as UFs |
+| **3,6%** | Paraíba: segunda menor taxa do país e segunda menor alta (só o DF subiu menos) |
 
 ## O dashboard
 
@@ -111,4 +111,4 @@ Python (pandas, DuckDB, matplotlib, Plotly, Dash), SQL, Parquet, Looker Studio, 
 
 ---
 
-Gustavo Hortencio da Silva · economista (UFPB) · [LinkedIn](#) · [GitHub](https://github.com/gstvhortencio)
+Gustavo Hortencio da Silva · economista (UFPB) · [LinkedIn](https://www.linkedin.com/in/gustavo-hortencio) · [GitHub](https://github.com/gstvhortencio)
