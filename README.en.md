@@ -6,9 +6,11 @@ An analysis of 21 months of consumer credit in Brazil (Jan 2025 – Sep 2026), b
 records from the Central Bank's **SCR.data** open credit registry and nine **SGS** time series.
 Partnership project **EBAC × Semantix**.
 
-**[Open the interactive dashboard](https://inadimplencia-familias-br.onrender.com)** (in Portuguese) · [Looker Studio dashboard](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) · [Insights report (PT)](docs/03_relatorio_insights.md)
+**[Open the interactive dashboard](https://inadimplencia-familias-br.onrender.com)** (in Portuguese) · [Looker Studio dashboard](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) ([PDF](docs/looker_studio_relatorio.pdf)) · [Insights report (PT)](docs/03_relatorio_insights.md)
 
 > The dashboard runs on Render's free tier: if it is asleep, the first load takes about 50 seconds.
+>
+> Looker Studio requires a Google account login. Without one, use the [PDF export](docs/looker_studio_relatorio.pdf).
 
 ![Dashboard: default rate by credit product](docs/img/03_produtos.png)
 

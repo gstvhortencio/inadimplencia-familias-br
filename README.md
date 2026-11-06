@@ -6,10 +6,12 @@ Análise de 21 meses de crédito a pessoas físicas no Brasil (jan/2025 a set/20
 de registros do **SCR.data** e nove séries do **SGS**, do Banco Central. Projeto de parceria
 **EBAC × Semantix**.
 
-**[Abrir o dashboard interativo](https://inadimplencia-familias-br.onrender.com)** · [Dashboard no Looker Studio](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) · [Relatório de insights](docs/03_relatorio_insights.md)
+**[Abrir o dashboard interativo](https://inadimplencia-familias-br.onrender.com)** · [Dashboard no Looker Studio](https://datastudio.google.com/reporting/863e566d-9912-46a7-b902-ac9d8ac9dbeb) ([PDF](docs/looker_studio_relatorio.pdf)) · [Relatório de insights](docs/03_relatorio_insights.md)
 
 > O dashboard roda no plano gratuito do Render: se ele estiver "dormindo", a primeira abertura leva
 > cerca de 50 segundos.
+>
+> O Looker Studio pede login em uma conta Google. Sem login, use o [PDF do relatório](docs/looker_studio_relatorio.pdf).
 
 ![Dashboard: inadimplência por produto](docs/img/03_produtos.png)
 
